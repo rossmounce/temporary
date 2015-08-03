@@ -1,0 +1,136 @@
+ 
+
+0.02
+
+   
+
+ 
+
+ 
+
+ 
+    
+ 
+
+100
+
+100
+
+ 
+
+Q4
+
+ 
+
+Pelobacter propionicus Ott Bd 1T (X70954)
+
+Geobacter chape/Iei (U41561 )
+
+Trichlorobacter thiogenes ATCC BAA—34T (AF223382)
+‘Geobacter humireducens‘ JW3 (AY187306)
+— Geobacter bemidjiensis BemT (AY187307)
+
+ 
+
+100
+
+ 
+
+100
+
+ 
+
+78
+
+ 
+
+70
+
+ 
+
+93
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70 98
+
+ 
+
+99
+
+ 
+
+ 
+
+ 
+
+— Geobacter bremensis Dfr1T (U96917)
+
+Geobacter sulfurreducens PCAT (U 1 3928)
+—Geobacter hydrogenoph/Ius H-2T (U28173)
+
+- Geobacter grbiciae TACP-5 (AF335183)
+- Geobacter metal/ireducens GS—15T (L07834)
+
+Geobacter pelophilus Dfr2T (U96918)
+
+Pelobacter acidiga/lici Ma Gal 2T (X77216)
+Pelobacter massiliensis DSM 6233T (AY187308)
+Malonomonas rubra Gra Ma|1T (Y17712)
+
+Pelobacter seleniigenes KMT (DQB91964)
+83 Desulfuromusa succinoxidans GylacT (X79415)
+ﬁﬁesulfummusa sp. S1 (AY187309)
+
+Desulfuromusa kysingi/ Kysw2T (X79414)
+
+Desulfuromusa bakii GypropT (X79412)
+
+74 |:Desulfuromusa ferrireducens 102T (AY835392)
+
+Geobacter
+cluster
+
+Desulfuromusa
+cluster
+
+Geopsychrobacter electrodiphi/us A1 T (AY187304)
+
+Geothermobacter ehrlichii $8015T (AY155599)
+Desulfuromonas thiophila NZ27T (Y11560)
+
+Desulfuromonas acetoxidans DSM 624T (AY187305)
+
+Desulfuromonas sva/bardensis 112T (AY835388)
+
+Desulfuromonas palmitatis SDBY1T (U28172)
+
+Pe/obacter carbine/icus Gra Bd 1T (X79413)
+
+93 [Flowery acetylenicus WoAcy1T (X70955)
+61 Pe/obacter venetianus DSM 2394T (U41562)
+Desulfuromonas chloroethen/ca TT4BT(U49748)
+100 Desulfuromonas michiganensis’ BRS1 (AF357915)
+
+Desulfuromonas acetexigens ATCC 51529T (DAU23140)
+Sediment/Cola selenatireducens AK4OH1T (AF432145)
+
+Desulfuromonas
+cluster
+

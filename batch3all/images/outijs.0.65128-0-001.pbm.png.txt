@@ -1,0 +1,52 @@
+Dissimilarity (%)
+0 2 4 s
+Roseomonas cervical/s ATCC 49957T (AY150047)
+
+Roseomonas gilardii subsp. gilardii ATCC 49956T(AY150045)
+Roseomonas mucosa ATCC BAA-692T(AF538712)
+Magnetaspiri/lum gryphiswa/dense DSM 6361T (Y10109)
+Phaeospiri/Ium fulvum NCIMB 11762‘(D14433)
+Tha/assospira lucentensis DSM 14000T(AF358664)
+Azorhizobium cau/inodans LMG 6465T (X67221)
+Roseospira mediosalina BN 2801(AJ000989)
+Rhodospirillum rubrum ATCC 11170T (D30778)
+Rhodovibrio salinarum ATCC 35394T (M59069)
+Azospiri/lum irakense LMG 10653T (229583)
+Azospiri/Ium amazonense DSM 2787T (229616)
+Azospirillum halopraeferens DSM 3675T (X79731)
+AzospiriI/um canadense D82T (DQ393891)
+Azospiri/Ium brasilense ATCC 29145T (X79739)
+'Roseomonas’ genomospecies 6 ATCC 49961 (AY150050)
+Azospiri/lum melinis LMG 23364T (D0022958)
+Azospiri/Ium lipoferum ATCC 29707T (M59061)
+Azospiri/lum oryzae IAM 15130T (AB185396)
+
+Azospirillum zeae N7' (DQ682470)
+D Azospirillum zeae N6 (D0682469)
+
+Azospiri/Ium [erg/mobile ACM 2041T (X90759)
+Azospiri/Ium doebereinerae DSM 13131T (AJ238567)
+Gluconacetobacter d/azotrophicus ATCC 49037T (X75618)
+
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+

@@ -1,0 +1,60 @@
+100
+
+0.02
+
+71
+52
+47
+
+36
+34
+
+20
+6o 70
+
+28
+99
+
+85
+
+79 89 97
+
+94
+
+93
+99
+
+100
+
+Elbe river clone DEV005 (AJ401105)
+Crater lake clone CL500—85 (AF316731)
+Eutrophic lake clone SQJA—4O (AB154319)
+River clone 210ds10 (AY212657)
+Penguin droppings clone KD7-122 (AY218705)
+Lake Waiau sediment clone W4—B59 (AY345492)
+Lake clone 84.13 (AY752115)
+Hypersaline clone LA1-B30N (AF513965)
+Seawater clone 5.33 (DQSOZl 10)
+Polychaete clone P. palm C 85 (AJ441222)
+Sea urchin clone PIS48 (AY770729)
+Rubritalea squalenifaciens HOact23T (ABZ77853)
+100 Rubritalea marina Pol012T (00302104)
+Seawater clone 4 (DQ302105)
+Marine clone Arcti096BD-2 (AY028221)
+Polychaete clone P. palm A 54 (AJ441243)
+Marine clone SJCS.21 (DQO71119)
+Polychaete clone P. palm CIA 139 (AJ441223)
+Marine bacterioplankton clone ANT18/2 (AY135670)
+100 Seawater clone 16 (D0302108)
+71 Marine clone PB1,14 (DQOY1069)
+48 Axinella damicomis clone 36 (DQSOZ117)
+56 Aplysina aerophoba clone 5 (DQ302112)
+50 Axine/Ia damicomis clone 23 (DQ302115)
+Marine clone Arctic95D-9 (AY028220)
+Human colonic clone HuCC13 (AJ315481)
+100 Akkermansia muciniphila MucT (AY271254)
+Prosthecobacter dejongeii FC1T (U60012)
+Elbe river clone DEV179 (AJ401130)
+Verrucomicrobium spinosum DSM 4136T (X90515)
+Elbe river clone DEVOO3 (AJ401104)
+

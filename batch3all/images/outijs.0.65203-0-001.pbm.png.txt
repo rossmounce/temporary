@@ -1,0 +1,50 @@
+ASL1 (AF544224)
+
+ARCP1-21 (AF523936)
+
+A510 (AF544221)
+
+A31 (AF544219)
+
+ant-b7 (DQ303249)
+
+ARCP‘I-27 (AF523937)
+
+A84 (AF544223)
+
+ARCP1-60 (AF523941)
+Thermogymnomonas acidicola IC-189T (A3269873)
+Thermoplasma volcanium GSS1T (NC_002689)
+Thermoplasma acidophilum DSM 1728T (NC_002578)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+
+0.01
+
+Uncultured clones
+
+733
+
+‘Ferroplasma cupricumu/ans’ BH2 (AY907888)
+Ferroplasma sp. MT17 (AF513710)
+
+Ferrop/asma acid/philum DSM 12658T (AJ224936)
+Picrophilus torridus DSM 9790T (NC_005877)
+
+Picrophilus oshimae KAW2/2T (X84901)
+
+‘Aciduliprofundum boonel‘ T469 (DQ451875)
+

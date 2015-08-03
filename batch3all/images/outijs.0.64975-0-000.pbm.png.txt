@@ -1,0 +1,112 @@
+0.02
+
+53
+
+88
+
+87
+
+ﬂEPseudoxanthomonas broegbernensis B1616/1T (AJO12231)
+Pseudoxanthomonas koreensis T7-09T (AY550263)
+
+—Xanthomonas campestris LMG 568T (X95917)
+
+Xanthomonas albi/ineans LMG 494T (X95918)
+
+Stenotrophomonas maltoph/Iia ATCC 13637T (M59158)
+
+ 
+
+ 
+
+ 
+
+95
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+95
+
+ 
+
+Stenotrophomonas nilritireducens L2T (AJO12229)
+
+ 
+
+ 
+
+ 
+
+72
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+ 
+
+ 
+
+59
+
+100
+
+ 
+
+XyleI/a fastidiosa ATCC 35880T (M26601)
+Thermomonas fusca LMG 21737T (AJ519986)
+Thermomonas haemolytica A50-7-3T (AJ300185)
+Lysobacter enzymogenes DSM 2043T (AJ298291)
+—Lysobacter antibioticus DSM 2044T (ABO19582)
+Luleimonas mephitis B1953/27.1T (AJO12228)
+Luteimonas composti CC—YY255T (DQB46687)
+Arenimonas malthae (3C-JY-1T (00239766)
+Aren/monas donghaensis HO3-R19T (DQ411038)
+Si/animonas Ienta 25-4T (AY557615)
+Dokdone/Ia koreensis DS-123T (AY987368)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aqu/monas voraii GPTSA 20T (AY544768)
+
+ 
+
+76 Frateuria aurantfa DSM 6220T (AJ010481)
+100 Fu/vimonas so/i LMG 19981T (AJ311653)
+
+ 
+
+74 — Rhodanobacter lindaniclasticus RP5557T (AF039167)
+
+ 
+
+Escherichia coli ATCC 11775T (X80725)
+

@@ -1,0 +1,48 @@
+Anaerobic DCP-dechlorinating consortium clone SHA-SOO (AJ249112)
+Anaerobic DCP-dechlorinating consortium clone SHA-53 (AJ249111)
+Anaerobic chlorobenzene-degrading consortium clone SJA-116 (AJ009487)
+Contaminated aquifer clone WCHBt—OS (AF050562)
+Leptalinea tardivitalis YMTK-2T (A3109438)
+Levilinea saccharolytica KlBl-11(AB109439)
+Anaerobic chlorobenzene-degrading consortium clone SJA-58 (AJ009468)
+Anaerobic chlorobenzene-degrading consortium clone SJA-170 (AJ009500)
+Anaemlinea thermolimosa IMO-1T (AB109437)
+Anaerolinea thermophila UNI-1T (ABO46413) Anaero/ineae [1]
+Hot spring clone OPBGS (AF027036)
+
+Hot spring clone OPBQ (AF027043)
+Anaerobic DCP-dechlorinating consortium clone SHA-105 (AJ249113)
+Fluidized bed anaerobic sludge clone SFLFBFLE47 (AY340828)
+Longilinea arvoryzae KOM E-1T (AB243673) <—
+Anaerobic DCP-dechlorinating consortium clone SHD-299 (AJ278173)
+Bellilinea caldifistulae GOMl-1T (AB243672) 4—
+Contaminated aquifer clone WCHB1-62 (AF050566)
+Uncultured soil bacterium 0043 (AF507690) . .
+Uranium wastewater clone GR/GS—296.|l.271 (AJ296573) Cald/lmeae [6]
+Caldilinea aerophila STL-6-O11 (A3067647)
+I ‘Dehalococcoides ethenogenes‘ 195 (AF004928)
+Subsurface clone t0.8.f (AF005746)
+Anaerobic digestor clone vadinBA26 (U81649) ‘Deha/ococcoidetes‘ [2]
+
+Subsurface clone H1 .41 (AFOO5748)
+CB—contaminated groundwater clone GIFQ (AF407200)
+
+Lake clone CL500—9 (AF316763)
+Sponge symbiont clone W852f (AF186417)
+Subsurface clone H1.2.f (AF005747) Clone ClUSter [4]
+Marine clone SAR202 (U20797)
+Chloroﬂexus aggregans DSM 9486 (AJ308499)
+Chloroﬂexus aurantiacus J-10—fl (M34116)
+Oscillochloris trichoides DG-6 (AF093427) '
+Roseiflexus castenholzii HL08T (ABO41226) ChlorOf/ex, [3]
+Herpetosiphon aurantiacus ATCC 23779T (M34117)
+Sphaerobacter thermophilus S 6022T (X53210)
+
+T
+Thermomicrabium roseum ATCC 27502 (M34115) - -
+'Thermobaculum terrenum' YNP1 (AF391972) Th er mom’ or Ob’a [5]
+
+0.10
+
+ 
+

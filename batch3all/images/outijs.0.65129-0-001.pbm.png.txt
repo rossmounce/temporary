@@ -1,0 +1,51 @@
+A. towneriAB 1110T (AF509823)
+Acinetobacter genomic species 15TU strain 151a (293448)
+A. ursingii NIPH 137T (AJ275038)
+73 100 Acinetobacter genomic species 10 strain ATCC 17924 (293443)
+Acinetobacter genomic species 11 strain ATCC 11171 (X81659)
+A. parvus NIPH 384T (AJ293691)
+Acinetobacter genomic species 14BJ strain 382 (293453)
+Acinetobacter genomic species 1BBJ/14TU strain ATCC 17905 (293447)
+Acinetobacter genomic species 17 strain 942 (293454)
+A. haemo/yticus (genomic species 4) ATCC 17906T (293437)
+81 79 85 Acinetobacter genomic species 16 strain ATCC 17988 (293451)
+Acinetobacter genomic species 1SBJ strain 79 (293452)
+00 61 A. tjernbergiae 7N16T (AF509825)
+A. tandoii 4N1?»T (AF509830)
+A. schindleri NIPH 1034T (AJ278311)
+A. bouveti'i 4802T (AF509827)
+A. johnsonii (genomic species 7) ATCC 17909T (293440)
+A. radioresistens (genomic species 12) ATCC 43998T (293445)
+‘A. venetianus’ RAG-1 (AJ295007)
+10 A, baumanni'i (genomic species 2) ATCC 19606T (293435)
+Acinetobacter genomic species 13TU strain ATCC 17903 (293446)
+66 A. gerneri' 9A01T (AF509829)
+;, A. grimontii 17A04T (Carr et al., 2003; AF509828)
+A.junii (genomic species 5) ATCC 17908T (Ibrahim et al., 1997; 293438)
+A.junii (genomic species 5) LMG 998T (this study; AM410704)
+A.junii (genomic species 5) SH215.SHVI (this study; AM410705)
+A. grimontii CCM 7198T (this study; AM410706)
+Acirietobacter genomic species 6 strain ATCC 17979 (293439)
+6“ 100 A, lwofﬁi (genomic species 8) ATCC 17925T (293441)
+A. Iwoffii (genomic species 9) ATCC 9957 (293442)
+A. bay/yi BZT (AM410709)
+Acinetobacter genomic species close to 13TU strain 10090 (293449)
+93 Acinetobacter genomic species between 1 and 3 strain 10095 (293450)
+91 A. ca/coaceticus (genomic species 1) DSM 30006T (X81661)
+Acinetobacter genomic species 3 strain ATCC 17922 (293436)
+
+87
+
+100
+
+1%
+
+Psychrobacter immobi/is
+ATCC 43116T (U39399)
+
+100 Moraxe/Ia Iacunata ATCC 17967T (AF005160)
+
+‘A/kanindiges hongkongensis’ HKU9 (AF543466)
+
+10° Alkanindiges i/linoisensis MVAB Hex1T (AF513979)
+

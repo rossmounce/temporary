@@ -1,0 +1,35 @@
+Bacteroides fragilis ATCC 25285T (M11656)
+Prevotella brevis ATCC 19188T (AJ011682)
+Prevote/Ia ruminicola ATCC 19189T (L16482)
+Prevotella albensis DSM 11370T (AJO11683)
+Prevotel/a bryantii DSM 11371 T (AJ006457)
+93 Prevotella bucca/is ATCC 3531GT (L16476)
+Prevotella enoeca ATCC 51261T (AJ005635)
+Prevotella marsh/i E9.34T (AF481227)
+Prevotella oralis ATCC 33269T (L16480)
+
+Prevote/la corporis ATCC 33547T (L16465)
+Prevote/la disiens ATCC 29426T (L16483)
+Prevotella intermedia ATCC 25611T (L16468)
+Prevotella nigrescens ATCC 33563T (L16471)
+PrevoteI/a pal/ens AHN 10371 T (Y13105)
+85 PrevoteI/a bivia ATCC 29303T (L16475)
+Prevotella amnii sp. nov. CCUG 5364BT (AM422125)
+93 Prevote/Ia me/aninogenica ATCC 25845T (L16469)
+Prevotella verora/I's ATCC 33779T (L16473)
+1 00 PrevoteI/a multiformis JCM 12541T (AB182483)
+Prevotella dentico/a ATCC 35308T (L16466)
+Prevotella oris ATCC 33573T (L16474)
+
+Prevote/Ia salivae JCM 12084T (AB108826)
+Prevote/la ou/orum ATCC 43324T (L16472)
+
+Prevote/Ia multisaccharivorax JCM 12954T (AB200414)
+Prevotella baroniae E9.33T (AY840553)
+
+1 % Prevote/la bergensis W3326T (AY350613)
+Prevotella buccae ATCC 33574T (L16478)
+
+99 Prevote/la shahii JCM 12083T (AB108825)
+Prevotella Ioescheii ATCC 15930T (L16481)
+

@@ -1,0 +1,81 @@
+001
+
+89
+
+66
+
+100 Laceye/Ia sacchari KCTC 9790T (AF138737)
+
+‘00 ' Laceye/Ia sacchariKCTC 9789 (AF138738)
+
+ 
+
+ 
+
+ 
+
+67
+
+ 
+
+ 
+
+ 
+
+ 
+
+63
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*
+
+ 
+
+7 Seinonella peptonophila KCTC 9740T (AF138735)
+* Thermoactinomyces intermedius KCTC 9646T (AF138734)
+
+ 
+
+100
+
+99
+
+—[
+
+ 
+
++ Thermoactinomyces vulgaris KCTC 9557 (AF138732)
+
+Thermoactinomyces vulgaris KCTC 9076T (AF138739)
+
+Thermoﬂavimicrobium dichotomicum KCTC 3667T (AF138733)
+* Planiﬁlum fimetico/a JCM 12507T (ABO88364)
+100 —Planiﬁlum fulgidum JCM 12508T (ABOB8362)
+Laceyella putida KCTC 3666T (AF138736)
+Shimazuella kribbensis A 9500T (ABD49939)
+
+Mechercharimyces mesophi/us DSM 44894T (AB239529)
+
+ 
+
+ 
+
+*
+
+100 Mechercharimyces asporophorigenens DSM 44955T (A8239532)
+
+Bacillus subtilis NCDO 1769T (X60646)
+
+ 
+

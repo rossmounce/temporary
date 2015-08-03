@@ -1,0 +1,42 @@
+16$ rRNA gene sequence similarity (%)
+
+ 
+
+ 
+
+Stenotrophomonas rhizophi/a
+Stenotrophomonas maltophilia
+Stenotrophomonas maltophilia
+‘Stenotrophomonas daejeonensis'
+Stenotrophomonas koreensis
+Stenotrophomonas humi sp. nov.
+
+CCUG 47042T (AJ293463)
+
+LMG 22072
+LMG 958T
+
+LMG 23369T
+R-32729T
+
+Stenotrophomonas nitritireducens LMG 22074T
+
+Stenotrophomonas acidaminiphi/a LMG 22073T
+
+Stenotrophomonas terrae sp. nov.
+
+Stenotrophomonas dokdonensis
+
+R-32768T
+CIP 108839T
+
+(U62646)
+(ABOO8509)
+(DQ109037)
+(AB166885)
+(AM403587)
+(AJ012229)
+(AF273080)
+(AM403589)
+(DQ178977)
+

@@ -1,0 +1,25 @@
+I7.5 7 6.5 8 5.5 5 4.5 4 3.5 3 2,5 2 1.5 1 0.5 0
+
+H. pylori 26695 (AE000641)
+
+H. pyloriJ99 (AE001553)
+H. suis sp. nov. HS1T (EF204595)
+H. suis sp. nov. H52 (EF204596)
+H. bizzozeronii CCUG 35045 (AY596215)
+H. felis Lee CS1 (AY596216)
+H. felis Lee CS3 (AY596217)
+
+H, fe/is Lee 085 (AY596219)
+H. felis Lee DSZ (AY596218)
+
+100.0
+
+ 
+
+   
+ 
+       
+  
+
+99.5
+

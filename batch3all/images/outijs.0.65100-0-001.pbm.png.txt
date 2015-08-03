@@ -1,0 +1,122 @@
+53
+
+98
+
+ 
+
+ 
+
+ 
+
+98
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+83
+
+ 
+
+ 
+
+ 
+
+69
+
+ 
+
+100
+
+ 
+
+100
+
+ 
+
+ 
+
+100
+
+ 
+
+84
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+57
+
+ 
+
+72
+
+ 
+
+87
+
+ 
+
+ 
+
+100
+
+ 
+
+ 
+
+ 
+
+98
+
+ 
+
+ 
+
+ 
+
+0.10
+
+— Strain TPT567 (AM490402)
+— Strain TPT18T (AM490403)
+
+‘Candidatus comitans’ (X91814)
+
+— Pedobacter africanus DSM 12128T (AJ438171)
+— Pedobacter heparinus DSM 2366T (AJ438172)
+
+Pedobacter cryoconitis DSM 14825T (AJ438170)
+Pedobacter piscium DSM 11725T (AJ438174)
+
+ECSphingobacterium multivorum IFO 14947T (D14025)
+
+Sphingobacterium thalpophi/um ATCC 43320T (M58779)
+Sphingobacterium faecium DSM 11690T (AJ438176)
+Sph/ngobacterium spiritivorum ATCC 33861 T (M58778)
+Cyc/obacterium marinurn ATCC 43824 (M62788)
+Bel/fella baltica DSM 15883T (AJ564642)
+Cytophaga hutchinsoniiATCC 33406T (M58768)
+Sporocytophaga myxococcoides DSM 11118T (AJ310654)
+Ce/Iu/ophaga baltica LMG 18535T (AJ005972)
+Cel/u/ophaga fucicola LMG 18536T (AJ005973)
+Leeuwenhoekie/Ia marinoﬂava ATCC 19326T (M58770)
+F/avobacterium aquati/e ATCC 11947T (M62797)
+Flavobacterium Iimico/a DSM 15094T (AB075230)
+
+ 
+

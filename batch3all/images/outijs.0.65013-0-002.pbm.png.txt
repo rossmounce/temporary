@@ -1,0 +1,315 @@
+(b)
+
+95
+
+ 
+
+ 
+
+95
+
+100
+
+100
+
+100
+
+100
+
+7
+
+ALY (AY197646)
+SpaWB229 (AY197652)
+
+HD1 (AY197654)
+
+FDD (Av197644)
+
+RuS (AY197648)
+
+‘Ca. P. ulml‘ EY1 (AY197655)
+‘03 P ziziphi‘ JWB (AY197661)
+9‘3 {Ca P trif011i‘CP(AY500130)
+
+100
+
+ 
+  
+  
+  
+   
+   
+
+80 EYIL (AF409070)
+
+VR (AY500817)
+
+CPS (EF186819)
+
+ﬁ ‘03 P. fraxim’ AshY1 (AF092209)
+LYch (AF498308)
+LDY (U18753)
+PPWBfl (EF186826)
+- GLLhon (AF361017)
+KAP (EF186323)
+’Ca. P. phoenicium‘ AlmWB1 (AF390136)
+SP1 (AF190228)
+CYE L (AF173558)
+‘00 PoiBI (AF190223)
+VAC (X76430)
+9 62 MW1 (AF510724)
+
+ 
+
+ 
+
+54
+
+91
+
+ 
+
+5B
+
+ 
+
+ 
+
+1
+
+92 FBP(EF193354)
+CrP (EF193355)
+CoP (EF186827)
+‘06. P auranlifolia‘ LWB (EF186823)
+SEPN (EF193357)
+“Ca. P. australasia‘ TBB (EF193359)
+— IAWB (EF193356)
+0056 — ‘Ca. P ma‘i' AP15 (AJ542541)
+
+61
+
+ 
+
+100
+
+ 
+
+ 
+
+ 
+
+83
+
+ 
+
+ 
+
+ 
+
+100
+
+100
+
+"C3 P pyr1’PD1 (AJ542543)
+— Ca. P prunorum ESFY.G2 (AJ542545)
+‘Ca. P, astens’ OAY (M30790)
+'03 P asteris BBS$(AY265213)
+‘Ca. P. asleris’ ACLR.AY (AY265211)
+“Ca P asteris BB (AY180955)
+7 ; Stol (AF248959)
+~ ‘03. P austrahense‘ PpDB (Y10095)
+9 —‘Ca P americanum’ APPTW1O NE (00174121)
+99-— MPV (AF248960)
+— CbY1 (AY495882)
+A, palmae J233T (L33734)
+
+A, laid/awfiJAW (M23932)
+
+100 M genital/um G-37T (L43967)
+M. pneumonlae M129 (U00089)
+
+83
+
+ 
+
+56
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+ 
+
+0,01 substitutions per site
+
+ 
+
+68
+
+ 
+
+ 
+
+ 
+
+63
+
+ 
+
+96
+70
+
+ 
+
+100
+
+—[
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 E
+
+B Suth/IS 168 (AL009126)
+
+O. IheyenSIs HTE83’1 (BADOOO25)
+B ha/Odurans 0-125 (BADOOOO4)
+B anthracis Ames (AE018879)
+
+B cereus ATCC 14579T (AE016877)
+
+ 
+
+M. gal/Iseptlcum R (AEO15450)
+M penetrans HF-2 (BADDOOQ6)
+U. pan/um ATCC 700970 (AF222894)
+M. pulmonis UAB CTIP (AL445566)
+M. synoviae 53 (AE017245)
+M hyopneumam‘ae 7448 (AED17244)
+M. mob/[e 163KT (AE017308)
+M caprrco/um ATCC 27343T (CP000123)
+M mywides PG1 (BX293980)
+Mes. ﬂorum L1T (AEO17263)
+Sp. cim‘ R8A2 (X63781)
+Sp kunkem CR2-3x (NC_003999)
+
+100 L18. innacua C1ip11262 (AL592022)
+
+Lls monocytogenes EGD»e (AL591 824)
+
+10“ Sta aureus MW2 (BAUDDDSB)
+
+—[
+
+ 
+
+ 
+
+100
+
+_E
+
+99
+
+ 
+
+ 
+
+ 
+
+99
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+ 
+
+ 
+
+ 
+
+95
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+— s avermitilis MA-4680T (BAOOOOBO)
+— S Gael/colorA3(2) (AL645882)
+
+ 
+
+Sta ep/derm/d/s ATCC 12228 (AE015929)
+— E, faeca/is V583 (AE016830)
+94 Lac. plantarum WCF81 (AL935263)
+—: Lac. brews ATCC 367 (CPOOO416)
+Lac johnsonu' NCC 533 (AE017198)
+St! aga/actlae 2603V/R (AE009948)
+Sh. pyogenes MGAS8232 (AE009949)
+Str. pneumon/ae TIGR4 (AE005672)
+Lactoc lactls “1403 (AE005176)
+
+C. acembuty/icum ATCC 824.r (AE001437)
+
+C. perfrmgens 13 (BAoooo16)
+
+T tengcongensis MB4T (AE008691)
+
+93E Cor. Effie/ens Y3314T (BAOOODSS)
+
+10° Cor glutam/cum ATCC 13032T (BAOOOOSG)
+~ Cor. diphtheriae NCTC 13129 (BX248353)
+Myc bovis AF2122/97 (BX248333)
+
+Myc tuberculos1s c001551 (AE000516)
+
+Myc Ieprae TN (AL450380)
+

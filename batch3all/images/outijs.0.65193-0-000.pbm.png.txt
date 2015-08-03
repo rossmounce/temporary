@@ -1,0 +1,46 @@
+Bacillus polygoni YN-1T (AB292819)
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Bacillus Clark/i DSM 8720' (X76444)
+
+Bacillus cellulosi/yticus JCM 9156r (ABO43852)
+
+Bacillus vedderi DSM 9768T (248306) GmuP 7
+Bacillus selenitireducens ATCC 700615T (AF064704)
+
+Bacillus saliphi/us DSM 15402T (AJ493660)
+
+Bacillus agaradhaerens DSM 8721T (X76445)
+
+Bacillus subti/is IAM 121 18r (ABO42061)
+
+Group 1
+Bacillus cohnii DSM 6307T (X76437)
+Bacillus halodurans ATCC 27557T (ABOQ1187)
+Bacillus clausii DSM 8716T (X76440)
+Group 6
+
+Bacillus alcalophilus DSM 485T (X76436)
+
+Bacillus kIu/Wichiae JCM 11691WAB086897)
+Bacillus hOIti JCM 9943T (D87035)
+
+Bacillus mannanilyticus JCM 10596T (ABO43864)
+
+0.01
+

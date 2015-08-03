@@ -1,0 +1,80 @@
+0.02
+
+99 Mesorhizobium loti ATCC 33669T (D14514)
+
+99 Aminobacter amlnovorans DSM 7048T (AJO11759) Phyl/obacfeﬁaceae
+Phyllobacten’um myrsinacearum DSM 5892T (D12789)
+Bartonella elizabethae ATCC 49927T (L01260)
+Bartone/Iaceae
+100 Bartone/la bac/l/iformis ATCC 35685T (21 1683)
+99 Ochrobactrum anthropi IAM 14119T (D12794)
+100 Ochrobactrum tn'tl'ci DSM 13340T (AJ242584)
+Bruce/laceae
+
+Bruce/la melitensis ATCC 23456T (L26166)
+Mycoplana dimorpha ATCC 4279T (D12786)
+Sinorhizobium fredii ATCC 35423T (D14516)
+
+99 Sinorhizobium meliloti LMG 6133T (X67222)
+
+Rhizobium leguminosarum ATCC 10004T (U29386)
+98 Al/orhizobium undico/a LMG 11875T (Y17047)
+79 Agrobacterium vitis NCPPB 3554T (D14502)
+Agrobacterium tumefaciens NCPPB 2437T (D14SOO)
+
+Martelella mediterranea MACL11T (AY649762) _ Unclassiﬁed
+
+Rhizobiaceae
+
+63
+
+Aurantimonas coralicida WP1T (AY065627)
+‘Aurantimonadaceae’
+100 Fulviman’na pelagl' HTCC 2506T (AY178860)
+61 100 Strain CL-GR15T (DQ386307)
+
+Strain CL-GR35 (DQ394095)
+100
+
+Clone BBD 217—1 7 (DQ446136)
+Clone BBD 217-06 (DQ446135)
+100 Clone BBD 217—19 (DQ446137)
+Clone BBD 217-28 (DQ446139)
+Clone BBD 217-03 (DQ446134)
+
+Clone BBD 217-20 (DQ446138)
+Rhodobium on’entis JCM 9337T (D30792)
+
+70 Rhodobium man'num DSM 2698T (D30790)
+100 Azorhizobium cau/inodans LMG 6465T (X67221)
+99 Xanthobacterautotrophicus DSM 432T (X94203)
+Ancylobacter aquaticus ATCC 25396T (M62790)
+
+Rhodobiaceae
+
+‘Xanthobacteraceae‘
+
+Pleomorphomonas oryzae F-7T (AB159680) — UnCIassified
+100 Aﬁpia broomeae DSM 7327T (U87759)
+
+I Bradyrhizobiaceae
+Bradymizabiumjaponicum ATCC 10324T (U69638)
+
+Methy/obacterium organophi/um JCM 2833T (D32226) Inﬂefhy/obacten‘aceae
+99 Microw'rga subterranea DSM 14364T (AYO78053)
+
+81 94 Beijen‘nckia indica ATCC 9039T (M59060)
+Methylocapsa acidiphila DSM 13967T (AJ278726)
+71 Methylocystis parvus NCIMB 11129T (Y18945)
+100 Methylosinus trichospon'um NCIMB 11131T (Y18947)
+Filomicrobium fusiforme DSM 5304T (Y14313)
+100 HyphomicrobiL/m vu/gare IFAM MC-750T (Y14302)
+Escherichia coli K-12 (U00096)
+
+ 
+
+Beijen’nckl'aceae
+I Methylocystaceae
+
+I Hyphomicroblaceae
+

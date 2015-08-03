@@ -1,0 +1,61 @@
+100
+
+005
+
+H. pylori ATCC 43504T (M88157)
+W succinogenes ATCC 29543T (M88159)
+
+100
+
+C. canadensis L279 (EF621900)
+
+C. canadensis L281 (EF621901)
+
+C. canadensis L280 (EF621899)
+100 C. canadensis L267 (EF621896)
+canadensis L285 (EF621902)
+canadensis L284 (EF621898)
+canadensis LZSST (EF621894)
+canadensis L268 (EF621895)
+canadensis L283 (EF621897)
+C. canadensis L277 (EF621903)
+
+99539.0
+
+Bactemides ureo/ytious ATCC 33387T (M88159)
+C. hyointestinalis subsp. hyointestinalis LMG 7817T (DQ174177)
+
+99 C. fetus subsp. fetus ATCC 27374T (DQ174127)
+73 78 100 C. fetus subsp. venerealis NCTC 10354T (DQ174131)
+C. hyointestinalis subsp. Iawsonii CCUG 34538T (DQ195237)
+90 C. lanienae NCTC 13004T (DQ174181)
+C. mucosa/is ATCC 43264T (DQ174173)
+C. cun/us ATCC 35224T (DQ174165)
+93 C. concisus ATCC 33237T (DQ174166)
+
+C. sputorurn bv. Sputorum LMG 7795NT (DQ174149)
+C. hominis NCTC 13146T (AJ251584)
+
+C. gracilis ATCC 33236T (DQ174168)
+C. showae CCUG 30254T (DQ174155)
+99 C. rectus CCUG 20446BT (DQ174169)
+C. upsaliensis CCUG 14913T (DQ174157)
+100 C. helveticus NCTC 12470T (DQ174161)
+88 C. coli LMG 6440T (AF372092)
+C, Iari NCTC 11352T (DQ174145)
+77 C. insulaenigrae NCTC 12927T (AJ620504)
+C. jejuni subsp.jejuni NCTC 11351T (AF372091)
+100 C. jejunisubsp. doylei LMG 8843T (DQ174144)
+‘Su/furospirillum carboxydovorans‘ MV (AY740528)
+100 Sulfurospilillum de/eyianum Spirillum 5175T (Y13671)
+100 SulfurospiIiI/um ha/orespirans PCE-M2T (AF218076)
+A. nitroﬁgilis CCUG 15893T (L14627)
+A. butzleri CCUG 10373 (L14626)
+100 A. skirrowii CCUG 10374T (L14625)
+99 A. cibarius LMG 21996T (AJ607391)
+A. cryaerophi/us CCUG 17801T (L14624)
+
+84
+
+100
+

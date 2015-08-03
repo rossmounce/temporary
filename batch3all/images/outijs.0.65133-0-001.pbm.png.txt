@@ -1,0 +1,69 @@
+26 24 22 2018 16 14 12 108 6 4 2 0
+
+H. pylori OB (AY368264)
+
+H. pylori DA (AY368262)
+
+H. baculiformis M50T (EF070343)
+
+10010H. salomonis (AY368266)
+
+H. salomonis InkinenT (AF508005)
+
+H. felis (AF508011)
+
+99-22 [9-]. felis (AY368261)
+
+H. felis ATCC 49179T (AF508004)
+
+H. felis (AF508000)
+
+H. cynogastricus JKM4T (EF070340)
+
+H. bizzozeronii Storkis (AF508003)
+“’0'0 H. bizzozeronii 14 (AF508002)
+‘Ca. H. heilmannii‘ type 2 (AF507999)
+0 ‘Ca. H. heilmannii’ type 2 (AF508017)
+
+6 '6 ‘Ca. H. heilmannii’ type 2 HU2 (AF508012)
+62 5
+
+‘06. H. heilmannii‘ type 2 (AF507996)
+‘Ca. H. heilmannii’ type 1 CM2 (AF508007)
+
+, ‘Ca. H. heilmannii’ type 1 HU1 (AF508010)
+100.0 ‘Ca. H. heilmannii’ type 1 P4 (AF508013)
+
+72-9 H. suis sp. nov. HS1T (EF204592)
+
+9 H. suis sp. nov. H82 (EF204593)
+
+390 H. suis sp. nov. H83 (EF204594)
+
+H. mustelae NCTC 12032 (L33462)
+
+ H. heparicus ATCC 51449 (AF066862)
+
+ 
+  
+  
+  
+ 
+  
+    
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+  
+ 
+  
+ 
+
+ 
+

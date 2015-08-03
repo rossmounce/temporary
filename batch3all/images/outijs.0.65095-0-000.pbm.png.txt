@@ -1,0 +1,61 @@
+59 R. percolatus MBS1T (X92114)
+
+R. opacus DSM 43205T (X80630)
+
+R. wratislaviensis NCIMB 13082T (Z37138)
+
+R. koreensis DNP505T (AF124343)
+
+R. marinonascens DSM 43752T (X80617)
+
+R. globeru/us DSM 43954T (X80619)
+
+R. erythropolis DSM 43066T (X79289)
+
+R. baikonurensis GTC 1041T (AB071951)
+
+Strain djl-6T (D0090961)
+
+R. fascians DSM 20669T (X79186)
+
+R. yunnanensis YIM 70056T (AY602219)
+
+R. rhodnii DSM 43336T (X80621)
+
+R. triatomae IMMIB RIV-085T (AJ854055)
+
+R. coprophilus DSM 43347T (X80626)
+
+R. ruber DSM 43338T (X80625)
+
+R. rhodochrous DSM 43241T (X79288)
+R. pyridinivorans PDBQT (AF173005)
+
+     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0.005
+
+ 
+  
+
+R. equi DSM 20307T (X80614)
+R. corynebacter/oides DSM 20151T (AF430066)
+R. kroppenstedtii K07-23T (AY726605)
+

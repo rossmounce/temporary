@@ -1,0 +1,114 @@
+0102
+
+97
+
+—o
+
+100
+
+ 
+
+ 
+
+ 
+
+62
+
+100
+—o
+
+ 
+
+ 
+
+ 
+
+75
+
+ 
+
+100
+
+100
+
+56 — Sporosarcina soli I80T (DQO73394)
+— Sporosarcina koreensis F73T (DQ073393)
+Sporosarcina saromensis HG645T (AB243859)
+Sporosarcina aquimarina SW28T (AF202056)
+Sporosarcina pasteurii NCIMB 8841T (X60631)
+Sporosarcina psychrophila IAM 12468T (D16277)
+Sporosarcina globispora DSM 4T (X68415)
+Sporosarcina ureae DSM 2281T (AF202057)
+Sporosarcina macmurdoensis CMS 21wT (AJ514408)
+Strain SK 55T (DQ333897)
+— Bacillus insolitus DSM 5T (X60642)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+100 Bacillus psychrodurans DSM 11713T (AJ277984)
+
+—o
+
+ 
+
+ 
+
+64
+
+100
+
+ 
+
+—o
+
+Bacillus psychrotolerans DSM 11706T (AJ277983)
+51 Bacillus silvestris HR3-23T (AJ006086)
+— Caryophanon latum DSM 14151T (AJ491302)
+Caiyophanon tenue DSM 14152T (AJ491303)
+
+100
+
+ 
+
+1ooﬁ Lysinibacillus fusiformis DSM 2898T (AJ310083)
+
+— L ysinibacillus sphaericus NCDO 1767T (X60639)
+
+A: Kun‘hia zopfii NCIMB 9878T (X70321)
+88 Kunhia gibsonii NCIMB 9758T (X70320)
+
+—c
+
+— Bacillus pycnus NRRL NRS-1691T (AF169531)
+Viridibacillus neidei BD-87T (AF169520)
+
+Viridibacillus arvi LMG 22165T (AJ627211)
+
+Viridibacillus arenosi LMG 22166T (AJ627212)
+
+ 
+
+ 
+
+96
+
+—o
+
+100
+
+ 
+
+Bacillus subtilis NCDO 1769T (X60646)
+

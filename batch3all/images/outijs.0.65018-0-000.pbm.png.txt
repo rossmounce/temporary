@@ -1,0 +1,106 @@
+0'02
+
+100 57
+
+95 — Rhodanobacter fulvus Jip2T (AB100608)
+70 — Rhodanobacter spathiphy/Ii B39T (AM087226)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60— iGP18-1T (EF166076)
+75 GR17-7T (EF166075)
+51 — RhodanobacterIindaniclasticus RP5557T (AF039167)
+
+ 
+
+— Dye/Ia yeojuensis KACC 11405T (DQ181549)
+Frateuria aurantia DSM 6220T (AJO10481)
+
+ 
+
+ 
+
+ 
+
+98
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+ 
+
+— Dye/la japan/ca XD53T (AB110498)
+53— Dye/Ia koreensis BB4T (AY884571)
+Fulvimonas soli LMG 19981T (AJ311653)
+Aquimonas voraii GPTSA 20T (AY544768)
+Luteimonas mephitis B1953/27.1T (AJ012228)
+Lysobacter enzymogenes DSM 2043T (AJ298291)
+X ylella fastidiosa ATCC 35879T (AF192343)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+82
+
+ 
+
+ 
+
+ 
+
+80
+
+ 
+
+Stenotrophomonas maltophilia ATCC 13637T (ABOOSSOQ)
+Pseudoxanthomonas broegbernensis B1616/1T (AJ012231)
+— Xanthomonas campestris LMG 568T (X95917)
+
+ 
+
+ 
+
+75
+
+ 
+
+Xanthomonas melonis LMG 8670T (Y10756)
+
+ 
+
+Escherichia coli ATCC 11775T (X80725)
+

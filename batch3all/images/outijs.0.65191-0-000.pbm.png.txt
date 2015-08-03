@@ -1,0 +1,90 @@
+B. subtilis BCRC 14716 (EF423595)
+ 73 B. subtilis subsp. subti/is BCRC 10255T (EF423592)
+B. subfilis BCRC 17435 (EF423598)
+B. subtilis subsp. spizizenii BCRC 17366T(EF433402)
+583. subtilis subsp. spizizenii BCRC 10447 (EF433403)
+B, mojavensis BCRC 17124T (EF433405)
+75 9 B. mojavensis BCRC 17531 (DQ993678)
+B. vallismon‘is BCRC 17183T(EF433404)
+95 B. ve/ezensfs BCRC 17467T (EF433407)
+B. amon/iquefaciens BCRC 14193 (EF433408)
+B. amy/oliquefaciens BCRC 17038 (D0993675)
+B. amy/o/iquefaciens BCRC 11601T (EF433406)
+B. amy/o/iquefaciens BCRC 14711 (EF423607)
+B. atrophaeus BCRC 17123T(EF433409)
+100 B. atrophaeus BCRC 17530 (00993677)
+98 B. Iicheniformis BCRC 12826 (EF423608)
+B. Iicheniformis BCRC 15413 (DQ993676)
+99 B. Iicheniformis BCRC 11702T (EF433410)
+B. licheniformis BCRC 14353 (EF423609)
+98 B. sonorensis BCRC 174167(EF433411)
+B. sonorensis BCRC 17532 (DQ993679)
+B. pumilus ATCC 7061 (AY876289)
+B. cereus ATCC 14579T (DQZO7729)
+
+  
+  
+ 
+   
+ 
+   
+   
+   
+ 
+ 
+ 
+  
+ 
+  
+
+64
+
+79
+
+10 B. subtilis BCRC 14716 (DQ309314)
+B. subtilis BCRC 17435 (DQ309317)
+B. subti/Is subsp. subtilis BCRC 10255T(DQ309293)
+B. subtilis subsp. spizizenii BCRC 17366T(DQ309299)
+B. subtilis subsp. spizizenii BCRC 10447 (DQ309301)
+B. vallismortis BCRC 17183T(D0309298)
+B, mojavensis BCRC 17124T(DQ309297)
+B. mojavensis BCRC 17531 (DQ309303)
+100 B. amyloliquefaciens BCRC 14193 (D0309309)
+B. velezensis BCRC 17467T(DQQOB176)
+100 B. amyloliquefaciens BCRC 17038 (DQ309305)
+B. amy/o/iquefaciens BCRC 14711 (DQ309311)
+'B. amy/o/iquefaciens BCRC 11601T (DQ309294)
+B, atrophaeus BCRC 171237(DQ309296)
+B. atrophaeus BCRC 17530 (D0309302)
+100 B. Iicheniform/s BCRC 11702T (DQ309295)
+B. licheniformis BCRC 14353 (DQ309324)
+B. licheniformis BCRC 15413 (DQ309325)
+91 B. Iicheniformis BCRC 12826 (DQ309323)
+100 B. sonorensis BCRC 17416T (DQ309300)
+
+B. sonorensis BCRC 17532 (DQ309304)
+B. pumilus KL—052 (AY167878)
+B. cereus ATCC 14579T (AE016577)
+
+ 
+ 
+   
+ 
+ 
+  
+   
+  
+   
+   
+  
+ 
+ 
+ 
+      
+
+(b)
+
+69
+
+0.05
+

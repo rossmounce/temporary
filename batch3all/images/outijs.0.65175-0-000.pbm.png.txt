@@ -1,0 +1,211 @@
+ 
+
+ 
+
+ 
+
+78
+
+ 
+
+ 
+
+ 
+
+   
+
+Acidovorax temperans CCUG 11779T (AF078766)
+
+Acidovorax de/aﬁeldii ATCC 17505T (AF078764)
+Acidovorax defluvii DSM 12644T (Y18616)
+Acidovorax facilis CCUG 2113T (AF078765)
+
+Acidovorax valeriane/Iae CFBP 4730T (AJ431731)
+Acidovorax avenae subsp. avenae ATCC 19307 (AB021421)
+
+Acidovorax anlhurii CFBP 3232T (AJ007013)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+63
+
+ 
+
+100
+
+99
+
+Acidovorax konjaci ATCC 33996T (AF078760)
+Simplicispira psychrophila LMG 5408T (AF078755)
+
+I— Simplicispira metamorpha D-416 (AY780904)
+
+10013imp/icispira metamorpha DSM 1837' (Y18618)
+Diaphorobacler nitroreducens NA1OBT (AB064317)
+
+Alicycliphilus denitriﬁcans DSM 14773T (AJ418042)
+
+Pseudacidovorax intermedius CCUG 54492T (EF469609)
+
+100lr Giesbergeria voronezhensis D-419T (AY780905)
+
+ 
+
+Giesbergeria voronezhensis D-420 (AY780906)
+
+100 Giesbergeria anulus IAM 14948T (ABO74527)
+
+100
+
+Giesbergeria kuznetsovii D-412T (AY780907)
+— Giesbergeria sinuosa LMG 4393T (AFO78754)
+
+Giesbergeria giesbergeri IAM 14949T (AB074522)
+Hydrogenophaga pal/eronii CCUG 20334T (AF078769)
+
+ 
+
+89
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+92
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hydrogenophaga taeniospiralis ATCC 49743T (AF078768)
+Malikia sp/nosa ATCC 14606T (ABOZ1387)
+— Hydrogenophaga pseudoflava ATCC 33668T (AF078077)
+
+ 
+
+ 
+
+ 
+
+100 Hydrogenaphaga flava DSM 619T (ABO21420)
+Hydragenophaga intermedia DSM 5680T (AF019037)
+Xenophi/us azovorans DSM 13620T (AF285414)
+
+Ottowia thiooxydans DSM 14619T (AJ537466)
+Hy/emone/Ia gracilis ATCC 19624T (AF078753)
+
+Ram/ibacter tataouinensis DSM 14655T (AF144383)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e4
+
+ 
+
+ 
+
+100 Ram/ibacter henchirensis DSM 14656T (AF439400)
+
+Variovorax paradoxus IAM 12373T (D88006)
+
+Xylophilus ampelinus DSM 7250T (AJ420330)
+
+ 
+
+57
+
+52
+
+87
+
+ 
+
+ 
+
+ 
+
+Polaromonas vacuo/ata ATCC 51984T (U14585)
+Curvibacter delicatus LMG 4328T (AF078756)
+Pseudomonas lanceolata ATCC 14669T (ABO21390)
+
+Rhodoferax ferrireducens T118T (AF435948)
+Rhodoferax antarcticus ATCC 700587T (AF084947)
+
+ 
+
+ 
+
+100
+
+ 
+
+Rhodoferax fermentans ATCC 49787T (D16211)
+Delftia acidovorans ACM 489T (AF078774)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.005
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lampropedia hyalina ATCC 11041T (AY291120)
+Comamonas testosteroni ATCC 11996T (M11224)
+Comamonas Koreensis IMSNU 11158r (AF275377)
+Comamonas terrigena DSM 7099T (AJ420326)
+Comamonas denitrificans CCUG 44425T (AF233877)
+Comamonas nitrativorans CCT 7062T (AJ251577)
+
+ 
+
+100
+

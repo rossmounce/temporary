@@ -1,0 +1,199 @@
+(b)
+
+10 changes
+
+73
+
+100
+
+100
+
+98
+
+96
+
+93
+
+56
+
+   
+  
+ 
+
+100
+
+93
+
+100
+
+100
+
+100
+
+ 
+ 
+     
+ 
+  
+  
+ 
+
+B
+B
+
+99
+
+ 
+
+95
+
+ 
+
+100
+
+O. iheyens/s HTE831 (BA000028)
+
+LiS. innocua Clip11262 (AL592022)
+
+100 US. monocytogenes EGD-e (AL591824)
+51 str. aga/actiae ZSOSV/R (AE009948)
+
+  
+
+E. faeca/is V583 (AE016830)
+Lac. p/antarum WCFS1 (AL935263)
+Lao. Drew's ATCC 367 (CPOOO416)
+
+HD1 (AY197654)
+ALY (AY197646)
+FDD (AY197644)
+86 SpaWB229(AY197652)
+100 RuS (AY197648)
+‘Ca. P. ulmi’ EY1 (AY197655)
+‘Ca. P. ziziphi' JWB (AY197661)
+‘Ca. P. trifolii’ CP (AY500130)
+74 EY|L(AF409070)
+a1 VR(AY500817)
+CPS (EF186819)
+‘Ca. P. fraxini' AshY1 (AF092209)
+55 100 LYF.CS(AF498308)
+LDY(U18753)
+83 PPWBfI (EF186826)
+92 GLLhon(AF361017)
+64 10° KAP(EF186823)
+‘Ca. P. phoenicium’ AImWB1 (AF390136)
+53 VAC (X76430)
+MW1 (AF510724)
+PoiBI (AF190223)
+SP1 (AF190228)
+CYE.L (AF173558)
+94 FBP(EF193354)
+so CrP(EF193355)
+‘Ca. P. aurantifolia’ LWB (EF186828)
+COP (EF186827)
+100 [ SEPN(EF193357)
+7 ‘Ca. P. australasia’ TBB (EF193359)
+IAva (EF193356)
+61 ‘Ca. P, mali’ AP15 (AJ542541)
+85 100 ‘Ca. P. pyri’ PD1 (AJ542543)
+‘Ca, P. prunorum’ ESFYGZ (AJ542545)
+Stol (AF248959)
+75 ‘Ca. P. americanum‘ APPTW10.NE (DQ174121)
+57 ‘Ca. P. australiense‘ PpDB (Y10095)
+MPV (AF248960)
+100 96 CbY1(AF495882)
+FCe. P. asteris’ BBSB (AY265213)
+82'
+
+62
+
+98
+
+83
+
+71
+
+‘Ca. P. asteris’ BB (AY180955)
+‘Ca. P, asteris’ ACLR.AY (AY265211)
+Ca. P, asteris’ OAY (M80790)
+A. pa/mae J233T (L33734)
+A, laid/awi/ JA1 (M23932)
+100 M. genital/Um G-37T (L43967)
+M. pneumoniae M129 (U00089)
+M. gal/isepticum R (AEO15450)
+M. penetrans HF-2 (BAOOOOZS)
+U, pan/um ATCC 700970 (AF222894)
+M. pulmom's UAB CTIP (AL445566)
+M. synoviae 53 (AE017245)
+M. hyopneumoniae 7448 (AE017244)
+M. mobile 163KT (AE017308)
+100 M. caprico/um ATCC 27343T (CP000128)
+M, mycoides PG1 (BX293980)
+Mes. f/orum L1T (AE017263)
+Sp. cifri R8A2 (X63781)
+Sp. kunke/ii CR2-3x (NC_003999)
+B. anthracis Ames (AEO16879)
+B. cereus ATCC 14579T (AE016877)
+Sta. aureus MW2 (BAOOOOBB)
+Sta. epidermidis ATCC 12228 (AEO15929)
+, subti/is 168 (AL009126)
+. ha/odurans 0-125 (BAOOOOO4)
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+
+100
+
+51
+
+Str. pneumoniae TIGR4 (AE005672)
+Srr. pyogenes MGA38232 (AE009949)
+Lactoo. lactis “1403 (AE005176)
+
+| Bacillales
+
+Mollicutes
+
+Firmicutes
+(Gram-positive,
+low-G+C)
+
+Lac. johnsonii NCC 533 (AE017198)
+100 I: C. acetobuty/icum ATCC 824T (AE001437)
+C. perfringens 13 (BA000016)
+7'. tengcongensis MB4T (AE008691)
+Cor. efﬁciens YS-314T (BAOOOO35)
+Cor. glutamicum ATCC 13032T (BA000036)
+Cor. diphtheriae NCTC 13129 (BX248353)
+
+Myc. bovis AF2122/97 (BX248333)
+Myc. tuberculosis CDC1551 (AE000516)
+
+Myc. leprae TN (AL450380)
+
+— s. avermiti/is MA-4580T (BA000030)
+s. noel/color A3(2) (AL645882)
+
+Actinobacteria
+
+‘Lactobacillales’
+
+l ‘Clostridia‘
+
+Firmicutes
+(Gram-positive,
+high-G+C)
+

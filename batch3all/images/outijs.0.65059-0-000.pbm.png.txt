@@ -1,0 +1,93 @@
+74
+60
+
+10
+100
+
+9
+
+100
+100
+
+100 Cardiobacterium hominis ATCC 15826T (M35014)
+
+100 Suttone/Ia indo/ogenes ATCC 25869T (M35015)
+100 Xanthomonas campestris LMG 568T (X95917)
+98 Fulvimonas soli LMG 19981T (AJ311653)
+
+81 Thalassolituus o/eivorans MIL-1T(AJ431699)
+
+5“ ‘ Oceanobacter kriegii IFO 15467T (ABOOG767) Oceanospirillaceae
+Ole/spire antarctica RB-BT (AJ426420)
+100 SaccharospiriI/um impatiens EL-105T (AJ315983) | ‘Saccharospirillaceae’
+99 Reinekea marinisedimentorum DSM 15388T (AJ561121)
+Oceanospirillum Iinum ATCC 1 1336T (M22365)
+58 Neptunomonas naphthovorans NAG-2N-126T (AF053734) . .
+. Mar/nobacterium georgiense KW-40T (US$339) oceanost/Iaceae
+
+Mar/'nomonas communis LMG 2864T (DQO11528)
+99 Halomonas elongate ATCC 33173T (X67023)
+
+ 
+
+9 100 Chromohalobacter marismortui ATCC 17056T (X87219)
+99 91 Cobetia marina DSM 4741T (AJ306890) Halomonadaceae
+5 74 : Carnimonas nigrifaciens CTCBS1T (Y13299)
+52 57 Zymobacterpalmae T109T (D14555)
+Man'nospiri/Ium minutu/um ATCC 19193T (AB006769)
+Pseudospiri/Ium japonicum ATCC 19191T (AB006766) I Oceanospirillaceae
+Ba/neatrix alpica (Y171 12)
+100 Uncultured pseudomonad F3C13 (AY697893) Litoricolaceae
+100 9 Litoricola lipolytica IMCC1097T (EF176580)
+“’0 Uncultured gammaproteobaclerium CHAB-V-35 (AJ240920) fam- "°"'
+ZooshikeI/a ganghwensis JC2044T (AY130994) | Hahellaceae
+Oleiphilus messinensis ME102T (AJ295154) | o/eiphi/aceae
+Hahe/Ia chejuensis KCTC 2396T (AF195410) | Hahellaceae
+Alcanivorax borkumensis 8K2T (Y12579) | Alcanivoracaceae
+
+woo Thiomicrospira pe/ophi/a DSM 1534T (L40809)
+100 Thioalka/imicrobium aerophilum AL 3T (AF126548)
+
+10 Listonella angui/larum ATCC 19264T (X16895)
+51 100 Vibrio cholerae ATCC 14035T (221856)
+54 54 Aeromonas hydrophila ATCC 7966 (X74677)
+53 100 Escherichia coli ATCC 11775T (X80725)
+° 100 Citrobacter freundii DSM 30039T (AJ233408)
+
+Oceanospiri/Iales
+
+I Thiotrichales
+
+I Cardiobacteriales
+I Xanthomonadales
+
+I ‘Vibrionales’
+I Aeromonadales
+I ‘Enterobacteriales’
+
+100 Haemophi/us inﬂuenzae ATCC 33391T (M35019)
+100 PasteureI/a multocida NCTC 10322T (M35018) I Pasreureﬂales
+99 Anaerobiospirillum succiniciproducens ATCC 29305T (U96412)
+99 Succinivibrio dextrinoso/vens DSM 3072T (Y17600) I Aeromonadales
+8 Glaciecola punicea ACAM 611T (U85853)
+10 8 Aestuariibacter salexigens JCZO42T (AY207502) I Alteromonadales
+10° Alteromonas mac/eodii DSM 6062T (Y18228)
+90 Psychrobacter immobilis DSM 7229T (AJ309942)
+80 Moraxe/Ia lacunata ATCC 17967T (D64049) I Pseudomonadales
+Alkanindiges iI/inoisensis MVAB Hex1T (AF513979)
+100 Chromatium okenii DSM 169T (AJ223234) -
+100 Allochromatium vinosum ATCC 17899T (M26629) I Chromatlales
+Legionella pneumophila Philadelphia 1T (M36023) I Legionel/ales
+100 Methy/obacter/uteus NCIMB 11914T (M95657) I Methylococca/es
+99 Methylosarcina fibrata AML-C10T (AF177296)
+Cyc/oc/asticus pugetii PS-1T (U12624) . .
+Methy/ophaga marina ATCC 35842T (X87338) I Th’otr’Cha/es
+KangieI/a koreensis SW—125T (AY520560)
+Acidithiobaci/Ius caldus DSM 8584T (Z29975) I Acidith/obaci/Ia/es
+
+ThermithiobaciI/us tepidarius DSM 3134T (AJ459801)
+
+Salinisphaera shabanensis E1 L3AT (AJ421425)
+
+Parvularcula bermudensis HT002503T (AF544015)
+

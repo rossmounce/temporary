@@ -1,0 +1,43 @@
+89 Methy/obacterium organophi/um JCM 2833T (D32226)
+|——l 4E
+0-01 Chelatococcus asaccharovorans DSM E5462T (AJ294349)
+
+75
+
+   
+ 
+    
+   
+  
+
+ 
+
+ 
+
+Bradyrhizobium japonicum LMG 6138T (X66024)
+@ Methy/orhabdus multivorans ATCC 51890T (AF004845)
+Beijen‘nckia indica ATCC 9039T (M59060)
+Methy/ooapsa acidiphi/a BZT (AJ278726)
+Methylocella pa/ustn's ATCC 700799T (Y17144)
+63 Methylocystis parvus NCIMB 11129T (Y18945)
+
+Methylosinus trichosporium NCIMB 1 1131T (Y18947)
+Prosthecomicrobium pneumaticum ATCC 23633T (ABO17203)
+
+ 
+
+Kaistia adipata Chj404T (AY039817)
+Kaistia granuli K004T (ABZ44762)
+
+ 
+
+Hyphomicrobium vulgare ATCC 27500 (Y14302)
+Pleomorphomonas oryzae F-7T (AB159680)
+Pleomorphomonas koreensis Y9T (AB127972)
+
+Rhodobium orientis JCM 9337T (D30792)
+
+ 
+
+Rhodobacter capsulatus ATCC 1 1 166T (D16428)
+

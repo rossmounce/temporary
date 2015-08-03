@@ -1,0 +1,39 @@
+‘Syntrophomonas wo/fei subsp. methybutyica'4J5 (DQ449033)
+Syntrophomonas wo/fei subsp, wolfei DSM 2245T (M26492)
+Syntrophomonas bryantii CuCa1T (M26491)
+Syntrophomonas cell/cola 19J-3T (DQ288691)
+Syntrophomonas wolfei subsp. saponavida SDZT (DQ666175)
+Pelospora glutarica WoG|3T (AJ251214)
+
+Syntrophomonas zehnderi OL-4T (DQ898277)
+Syntrophomonas palmitatica strain MPAT rmB (ABZ74040)
+Syntrophomonas palmitatica strain MPAT rrnA (ABZ74039)
+Syntrophomonas sapovorans OMT (AF022249)
+Syntrophomonas curvata OBS-1T (AY290767)
+
+‘Syntrophomonas erecta subsp. sporosyntropha’ 5—3-2 (DQ086234)
+‘Syntrophomonas erecta subsp. erecta' GB4—38 (AY536889)
+Thermosyntropha Iipo/ytica JW/VS-265T (X99980)
+Syntrophothermus lipocalidus TGB-C1T (AB021305)
+
+Clostridium acetobutylicum ATCC 824T (X81021)
+
+Clostridium k/uyveriATCC 8527T (M59092)
+
+0.05
+
+ 
+   
+   
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+  
+ 
+  
+

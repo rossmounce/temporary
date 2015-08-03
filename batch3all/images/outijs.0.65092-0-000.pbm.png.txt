@@ -1,0 +1,80 @@
+I 97+;
+
+LAIicyc/obacillus genomic species 2 M|H332 (ABOBO165)
+A. sendaiensis NTAP-1T (ABOS4128)
+— Alicyclobacillus genomic species 1 DSM 11984 (A8059668)
+1 A. acidoca/darius subsp. rittmannii DSM 11297T (A8089859)
+A. acidocaldarius subsp. acidocaldan'us ATCC 27009T (ABO42056)
+96 —A. vulcana/is DSM 16176T (AY425985)
+«QM. sacchan’ RB718T (ABZ64020)
+1% A. hespen'dum DSM 12489T (A8059678)
+— A. acidiphilus TA67T (AB059677)
+98 _E A. fastidiosus S—TABT (A3264021)
+A. acidoterrestris ATCC 49025T (AB042057)
+— A. macrosporangiidus 5—A239—20—AT (A3264025)
+00 — A. contaminans 3-A191T (A8264026)
+— A. pomorum 3AT (A8089840)
+A. tolerans DSM 16297T (AF137502)
+A. disulﬁdooxidans DSM 12064T (A8089843)
+A. cycloheptanicus DSM 4006T (ABO42059)
+— A. herbarius CP1T (ABO42055)
+{A shizuokensis 4—A336T (A8264024)
+00 A. kakagawensis 5-A83JT (A8264022)
+100 100 MP2 (AJ607430)
+
+99
+
+ 
+
+1009
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MP4T (AJ564766)
+86 MP3 (AJ607431)
+MP1 (AJ607429)
+— Bacillus tusciae IFO 15312T (AB042062)
+Arthrobacter globiformis JCM 1332T (A8089841)
+
+ 
+
+ 
+
+ 
+

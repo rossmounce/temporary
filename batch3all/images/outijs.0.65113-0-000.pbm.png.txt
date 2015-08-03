@@ -1,0 +1,45 @@
+Roseomonas genomospecies 4 ATCC 49959 (AY150048)
+Roseomonas genomospecies 5 ATCC 49960 (AY150049)
+Roseomonas cen/icalis ATCC 49957T (AY150047)
+Teichococcus Iudipueritiae 170/96T (AJ488504)
+
+Roseomonas terrae DS-48T (EF363716)
+
+Roseomonas lacus TH»G33T (AJ786000)
+Roseomonas aquatica TR53T (AM231587)
+99.4[ Roseomonas gi/ardii subsp. rosea ATCC BAA»691T (AY220740)
+100
+
+   
+ 
+  
+  
+   
+
+579
+
+Roseomonas gi/ardii subsp. gi/ardii ATCC 49956T (AY150045)
+s1 0 Roseomonas mucosa ATCC BAA-692T (AF538712)
+Muricoccus roseus 173/96T (AJ488505)
+Paracraurococcus ruber N889T (D85827)
+Roseococcus thiosulfatophilus R83T (X72908)
+_1o_u|: Gluconobacter cerinus ATCC 19441 T (X80775)
+Gluconobacter oxydans DSM 3503T (X73820)
+10° Acetobacter aceti NCIB 8621 T (X74066)
+99 9 Acetobacter lovaniensis IFO 13753T (A3032351)
+Methy/obacterium organophi/um JCM 2833T (032226)
+
+562
+
+100
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

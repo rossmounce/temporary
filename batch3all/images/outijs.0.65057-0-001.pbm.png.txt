@@ -1,0 +1,35 @@
+98 Thermococcus kodakarensis BAA-918T (D38650)
+
+Thermococcus peptonophilus ATCC 700098T (A3055125)
+
+Thermococcus gorgonarius ATCC 700654T (A3055123)
+Thermococcus fumicolans DSM 12820T (AB055122)
+Thermococcus stetteri DSM 5262T (275240)
+
+Thermococcus profundus ATCC 51592T (275233)
+
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+
+ 
+
+Thermococcus siculi DSM 12349' (ABO55126)
+Thermococcus thioreducens OG L-20PT (AF394925)
+
+Thermococcus coalescens DSM 16538' (AB107767)
+
+Thermococcus hydrothermalis CNCMI 1319T (270244)
+Thermococcus celerATCC 35543I (M21529)
+
+93 Thermococcus barossii ATCC BAA-1085' (U76535)
+
+0.001
+

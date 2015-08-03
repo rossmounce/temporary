@@ -1,0 +1,46 @@
+9
+
+73
+
+0.02
+
+98
+
+100
+
+5 Chryseobacterium daecheongense DSM 15235T (AJ457206)
+
+85 Chryseobacterium defluvi/ DSM 14219T (AJ309324)
+Chlyseobacterium wanjuense R2A10-2T (DQZ56729)
+Chryseobacterium formosense CCUG 49271 T (AY315443)
+Sejongia jeonii KCTC 12226T (AY553294)
+Chryseobacterium taeanense KCTC 12382T (AY883416)
+99 Chryseobacterium taichungense CCUG 50001T (AJ843132)
+8 ‘Chryseobacterium proteo/yticum’ strain 9670 (ABO39830)
+Chryseobacter/um soldane/Iico/a KCTC 12381T (AY883415)
+Chryseobacterium indoltheticum ATCC 27950T (M58774)
+8 Chryseobacterium scophthalmum LMG 13028T (AJ271009)
+99 Chlyseobacterium ba/ustinum ATCC 33487T (M58771)
+93 Chryseobacterium p/scium LMG 23089T (AM040439)
+Chryseobacterium caeni DSM 17710T (DQ336714)
+10 Chryseobacterium shigense DSM 17126T (AB193101)
+Chlyseobacterium vrystaatense LMG 22846T (AJ871397)
+8 Chryseobacterium joostei LMG 18212T (AJ271010)
+Chlyseobacterium indologenes ATCC 29897T (M58773)
+10' Chryseobacterium g/eum ATCC 35910T (M58772)
+5 Chryseobacterium flavum CW-E 2T (EF154516)
+Kaiste/Ia koreensis KCTC 12107T (AF344179)
+
+Chlyseobacterium hispanicum VP48T (AM 1 591 83)
+BergeyeI/a zoohelcum ATCC 43767T (M93153)
+
+9 Riemerella anatipestifer ATCC 11845T(U60101)
+Elizabethkingia meningoseptica ATCC 13253T (AJ 704540)
+10 Elizabethkingia miricola DSM 14571T (ABO71953)
+
+Flavobacterium aquatile ATCC 11947T (M62797)
+Weeksella virosa ATCC 43766T (M93152)
+Empedobacter brevis ATCC 14234 (M59052)
+
+WautersieI/a falsenii NF 1249 (AM238672)
+

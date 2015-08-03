@@ -1,0 +1,101 @@
+FDD (AY197664)
+ALY (AY197666)
+(a) RuS (AY197668)
+77 SpaWB229(AY197672)
+100 HD1 (AY197674)
+‘Ca. P, ulmi’ EY1 (AY197675)
+‘Ca. P. ziziphi’ JWB (AY197681)
+54 ‘Ca. P. 1rif0|ii’ CP (EF183486)
+100 EY|L(EF183490)
+79 VR (EF183491)
+CPS (EF183494)
+‘06. P. fraxini‘ AshY1 (EF183492)
+as PPWBfI(EF183495)
+69 GLLhon(EF186800)
+100 91 KAP(EF186801)
+PEY (EF186802)
+‘Ca. P, phoenicium’ AImWB,A112 (EF186803)
+100 LYTF.FL(DQ297677)
+LYmex (EF186804)
+ox (EF186813)
+JR (EF186811)
+100 SP1(EF186806)
+55 GR|(EF186810)
+1 VAC (EF186809)
+7° PBT(EF186807)
+96 FBP (EF186817)
+68 CrP(EF186818)
+10° CoP(EF186814)
+74 100 ‘Ca. P. aurantifolia’ LWB (EF186815)
+IAva (EF193380) .
+PEP (EF193381) MOI/ICUTeS
+69 SEPT(EF193378)
+100 CLP(EF193379)
+‘Ca. P, australasia’ TBB (EF193373)
+as ‘Ca, P. mali’ AP15 (EF193366)
+78 10° ‘Ca. P. prunorum’ LNSZ (EF193369)
+‘Ca. P. pyri’ PD1 (EF193370)
+‘Ca. P. asteris’ BB (AY183686)
+52 ‘Ca. P. asteris’ ACLR.AY (AY264866)
+100 ‘Ca. P. asteris’ BBS3 (AY264863)
+
+92
+
+58 ‘Ca. P. asteris’ OAY (M74770)
+95 ‘Ca. P. australiense’ AGY (AY376666)
+86 ‘Ca. P. americanum’ APPTW10.NE (EF193362)
+
+61 PTV (TomStol) (EF193364)
+MPv (EF193365)
+100 Strawb1 (U96615)
+A. palmae J233T (EF197116)
+A. laid/awii (M74771)
+100 Sp. citn' R8A2 (AF031160)
+100 Sp. kunkelii CR2-3x (Nc_003999)
+96 M53. florum L1 T (AE017263)
+100 M. mycoides PG1 (BX293980)
+M caprico/um ATCC 27343T (CP000123)
+65 M, synoviae 53 (AE017245)
+
+M. hyoeneumoniae 7448 (AE017244)
+M. mobile 163K (AE017308)
+
+M. pulmonis UAB CTIP (AL445566)
+82 98 M. pneumoniae M129 (U00089)
+M. genital/um G-37T (L43967)
+M. gall/septicum R (AEO15450)
+M. penetrans HF-2 (BA000026)
+U. parvum ATCC 700970 (AF222894)
+59 97 C. acetobuty/icum ATCC 824T (AEOO1437)
+C. perfringens 13 (BAOOOO16) x - - 1
+T. tengcongensis M134T (AE008691) l Closmd’a
+10° Sta. aureus MW2 (BAOOOOSS)
+Sta. epidermidis ATCC 12228 (AE015929)
+B. ha/odurans 0-125 (BAOODOO4)
+1O Chfnges o, iheyensis HTE831 (BA000028)
+100 B. anthracis Ames (AE016879) - ' '
+B, cereus ATCC 14579T (AE016877) Baal/ales F’rm’cwes_ _
+B. submis 168 (AL009126) (Gram-posntlve,
+100 L15. innocua Clip11262 (AL592022) _
+L/s. monocytogenes EGD-e (AL591824) low G+C)
+100 Str. aga/acn'ae 2603V/R (AE009948)
+73 Str. pyogenes MGA88232 (AE009949)
+76 58 Str. pneumoniae TIGR4 (AE005672)
+100 Lactoc. Iactis “1403 (AE005176) ‘ . ,
+E. faeca/[s V583 (AEO16830) LactobaCIllales
+87 Lac. plantarL/m WCFS1 (AL935263)
+70 Lac. brevis ATCC 367 (CPOOO416)
+Lac. johnsonii NCC 533 (AE017198)
+60 Car. glutamicum ATCC 13032T (BAOOOOSG)
+
+59
+
+100 84 Car. efﬂciens Ys—314T (BA000035)
+Cor. diphtheriae NCTC 13129 (BX248353) . .
+100 100 Myc. bovis AF2122/97 (BX248333) , , Firm/Ollie? _
+Myc. tuberculosis (3001551 (AE000516) Actlnobactena (Grammosnwa
+Myo. leprae TN (AL450380) .
+S. avermiti/is MA-4680T (BA000030) h lg h-G+C)
+
+S. coe/ico/or A3(2) (AL645882)
+

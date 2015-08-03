@@ -1,0 +1,49 @@
+10 changes
+
+— 73_[
+
+M. pumi/um KV—488T (ABZ34027)
+M. deminutum KV—483T (A8234026)
+— M. terregens NBRC 12961T (ABOO4721)
+
+ 
+
+62
+
+ 
+
+ 
+
+— M. terricola KV-448T (AB234025)
+
+— M. lacticum NBRC 14135T (AB007415)
+
+— M. koreense JS53—2T (AY962574)
+
+ 
+
+ 
+
+51
+
+ 
+
+ 
+
+ 
+
+ 
+
+— M. sch/eiferi NBRC 15075T (ABOO4723)
+
+- M. aoyamense KV-492T (ABZ34028)
+
+— M. aurum DSM 8600T (Y17229)
+
+— Strain FCC-01T (ABZ74908)
+
+— M. keratanolyticum NBRC 13309T (ABOO4717)
+
+Arthrobacter globiformis DSM 20124T
+(M23411)
+

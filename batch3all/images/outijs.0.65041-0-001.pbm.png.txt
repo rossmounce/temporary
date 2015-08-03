@@ -1,0 +1,127 @@
+0.1 100
+
+82 Ectothiorhodosgira vacuolata DSM 2111T (EF199940)
+99 Ectothiorhodosgira mobilis DSM 237T (EF199939)
+91 Ectothiorhodospira shaposhnikovii DSM 243T (AY450587)
+
+ 
+
+Ectothiorhodosgira haloalkalithla BN 9903T (EF199941)
+
+Ectothiorhodosgira marismortui DSM 4180T (EF199942)
+Thioalkalivibrio thiocyanodenitrificans ARhD1T (AY914802)
+
+Thioalkalivibrio denitrificans ALJDT (AY914807)
+Acidithlobaclllus ferrooxidans ATCC 23270T cbbL-2 (AF307091)
+Allochromatium vinosum ATCC 17899T rbcA (M26396)
+Thioalkalivibrio [annaschii ALM2T (AY914803)
+
+Thioa/kallvibrio haloghilus HL17T (EF199949)
+87 Thioalkalivibrio nitratis ALJ 1 2T (AY914805)
+
+93 Thioalka/ivibrio versutus AL2T (AY914800)
+Thioalkalivibrio thioczanoxidans ARh 2T (AY914804)
+Alkalisgirillum mobile 2-7008 (DQZ17925)
+100 Alkalisgirillum mobile ALPs 2 (00217924)
+75 Alkalisgirillum mobile AGDZ (DQ217922)
+100 1 00 Alkali/imnicola sg. AHN 1 (DQ217923)
+Alkali/imnicola halodurans 34AlcT (DQZ17926)
+AIkali/imnicola ehrlichii MLHE-1T (AF483208)
+100 Halorhodosgira halochloris DSM 10591' (EF199944)
+100 Halorhodosgira abdelmalekii DSM 2110T (EF1 99943)
+
+Halorhodosgira haloghila DSM 244T (EF199945)
+Thioclava pacifica TL 2T (AY656720)
+
+Thiorhodosgira sibirica A12T (EF199948)
+99 Rhodobacter capsulaius 881003 (L82000)
+80 Rhodovulum sulfidophilurn DSM 1374T (AY656721)
+100 Allochromatium vinosum ATCC 17899T rbcL (D90204)
+Nitrococcus mobilis ATCC 25380T (EF199946)
+
+Thioalkalivibrio Qaradoxus ARh 1T (AY914806)
+Thioalkalivibrio nitratireducens ALEN 2T (AY914801)
+100 Nitrosospira sp. TCH716 (AF459718)
+
+Nitrosomonas sp. ENI—11 (ABOS1373)
+Nitrobacter Winogradskyi ATCC 14123 (AF109914)
+
+Nitrobacter vulgar/'5 T3 (L22885)
+
+Ectothiorhodosinus mongolicum M9T (EF199947)
+Acidithiobacillus ferrooxidans ATCC 23270T cbbL—1 (AF129925)
+
+Thioalkalisgira microaeroghila ALEN 1T (AY450586)
+Hydrogenovibrio marinus MH-110T cbbL-1 (D43621)
+
+Hydrogenovibrio marinus MH-1 10T cbbL-2 (D43622)
+
+ 
+
+99
+
+93 100
+89
+
+75 100 100
+
+100
+
+(b)
+
+005
+
+81 Thioalka/ivibrio nitratis ALJ12T (AY914805)
+Thioalkalivibrio versutus AL2T (AY914800)
+Thioalkalivlbrio thioczanoxidans ARh 2T (AY914804)
+WT (EF199949)
+Thioalkalivibrio [annaschii ALM2T (AY914803)
+WT (AY914807)
+WT (EF199941)
+WT (EF199942)
+Ectothiorhodospira shaposhnikovii DSM 243T (AY450587)
+Ectothiorhodosgira vacuolata DSM 2111T (EF199940)
+s5 Ectothiorhodosgira mobilis DSM 237T (EF199939)
+100 Halorhodosgira halochloris DSM 1059T (EF199944)
+Halorhodosgira abdelmalekii DSM 2110T (EF199943)
+WT (EF199945)
+Allochromatium Vinosum ATCC 17899T rbcA (M26396)
+
+Ectothiorhodosinus mongolicus MST (EF199947)
+91 Nitrosomonas sp‘ ENI-11 (AB061373)
+
+97 Nitrosospira sp. TCH716 (AF459718)
+100 Nitrobacler winogradskyi ATCC 14123 (AF109914)
+Nitrobacter vulgaris T3 (L22885)
+Acidithiobacillus ferrooxidans ATCC 23270T cbbL—Z (AF307091)
+Thioalkalivibrio thiocyanodenitrifioans ARhD1T (AY914802)
+Hydrogenovibrio marinus MH-110T cbbL»1 (D43621)
+
+82 Thiorhodosgira sibirica A12T (EF199948)
+98 Thioclava pacifica TL 2T (AY656720)
+
+Rhodobacter capsulatus $31003 (L82000)
+Rhodovu/um sulﬂdophilum DSM 1374T (AY656721)
+Acidlthlobacillus ferrooxidans ATCC 2327GT cbbL—1 (AF129925)
+100 Alkali/imnicola sg. AHN 1 (DQZ17923)
+Alkali/imnicola halodurans 34A|cT (DQ217926)
+100 Alkali/imnicola ehrlichii MLHE-1T (AF483208)
+Alkalisgirillum mobile 2-7008 (DQZ17925)
+90 Alkalisgirillum mobile ALPs 2 (DQZ17924)
+84 Alkalisgirillum mobile AGDZ (DQZ17922)
+Thioalkalisgira microaeroghila ALEN 1T (AY450586)
+Hydrogenovibrio marinus MH-110T cbbL-2 (D43622)
+Allochromatium vinosum ATCC 17899T rbcL (D90204)
+Nitrococcus mobilis ATCC 25380T (EF199946)
+
+99 Thioalkalivibﬂo Qaradoxus ARh 1T (AY914806)
+98 Thioalkalivibrio nitratireducens ALEN 2T (AY914801)
+
+94
+
+ 
+
+100
+
+ 
+

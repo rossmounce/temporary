@@ -1,0 +1,52 @@
+75 R. africae ESF-5 (AF123706)
+100 R. parkeri NIAID maculatum 20T (AF123717)
+R. sibirica 246T (AF123722)
+R. conorii NIAID Malish 7T (AF123721)
+R. slovaca 13—B (AF123723)
+R. hone] RBT (AF123711)
+R. rickettsii R (Bitteroot) (X16353)
+R. japonica YM (AF123713)
+100 100 R. heilongjiangensis 054T (AY260451)
+R. montanensis M/5—6 (AF123716)
+R. rhipicepha/i Burgdotfer 3-7-female 6T (AF123719)
+R. massi/iae Mtu1T (AF123714)
+R. aesch/imannii M016T (AF123705)
+R. raoultii Marne (DQ365797)
+100 R. raoultii KhabarovskT (DQ365798)
+100 R. raoultii Elanda-23I95 (EU036984)
+
+ 
+   
+ 
+   
+ 
+  
+  
+   
+  
+    
+ 
+ 
+  
+
+0.02
+
+100
+
+R. tamurae AT-1T (DQ113910)
+R. helvetica CQPQ (AF123725)
+
+100 100 R. asiatica IO-1T (DQ110870)
+
+R. felis URRWXCaIZ (AF210695)
+|—— R. akari MK (Kaplan)T (AF123707)
+100 R. australis NIAID Phillips 32T (AF123709)
+R. typhi WilmingtonT (L04661)
+R. prowazekii Brein1T (AF123718)
+
+ 
+
+   
+
+100
+

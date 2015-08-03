@@ -1,0 +1,262 @@
+X. fastidiosa clone 9a50
+
+E, coli 15663T
+
+Azm. macrocytogenes 4308
+
+Azm. macrocytogenes 8674T
+
+Azt. beijerinckii 4032
+
+All. beijerinckii 8673;
+
+A21. chroococcum 4031
+
+Azt. chroococcum ATCC 9043Y
+
+Alt. vine/andii ATCC 478r
+
+Azt. paspali 7469'
+
+A21. paspali 7470
+
+P. resinovorans 1354?
+
+P. aeruginosa 8647T
+
+P. ﬂavescens 13539r
+
+P. mendocina 13540r
+
+P. stutzeri 12561T
+
+P, putida 2758‘
+
+P. agarici 2656T
+P. fluorescens 3512‘
+P. tolaasii 12833r
+P. chlororaphis 13613'
+P. aurantiaca 6003'
+P. aureofaciens 13610r
+P. cichon'i 5707T
+
+P. syringae 3023T
+
+   
+ 
+ 
+ 
+  
+ 
+   
+  
+ 
+    
+  
+ 
+  
+  
+ 
+  
+
+X. fastidiosa clone 9a5c
+E. coli 15663T
+
+     
+ 
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+
+Azt. vine/andii ATCC 478‘
+
+Azt. paspali 7470
+
+Alt. paspa/I' 746g
+
+Azt. chroococcum 4031
+
+Azt. chroococcum ATCC 9043Y
+
+Azt. beijerinckii 4032
+
+Alt. beijerinckii 8673T
+
+Azm. macrocytogenes 4308
+
+Azm. macrocytogenes 8674T
+
+P. mendocina 13540T
+
+P. ﬂavescens 13539T
+
+P. stutzeri 12561T
+
+P. putida 2758‘
+
+P. cichorii 5707r
+
+P. syringae 3023‘
+
+P. aureofaciens 13610T
+P. aurantiaca 6003T
+P. chlororaphis 13613'
+
+P. agarici 2656'
+P. ﬂuorescens 3512'
+
+P. tolaasii 12833r
+
+ 
+
+P. aeruginosa 8647'
+P. resinovorans 1354?
+
+Tree of concatenated atpD, carA and recA sequences. DNA (left) Peptide (right)
+
+(b)
+
+     
+
+E. coli 15663T
+
+  
+  
+ 
+   
+   
+   
+  
+  
+   
+   
+  
+
+P. stutzeri12561'
+
+P. mendocina 13540T
+
+P. ﬂavescens 13539‘
+
+P. putida 2758‘
+
+P. syringae 3023'
+
+P. cichon'i5707T
+
+P. agan‘ci 2656'
+
+P. to/aasii 12833T
+
+P. ﬂuorescens 3512'
+P. chlororaphis 13613Y
+P. aureofaciens 13610‘
+P, aurantiaca 6003T
+
+P. resinovorans 13541‘
+
+P. aeruginosa 8647'
+
+Alt. vine/andii ATCC 478T
+Azt. paspali 7470
+
+Azt. paspa/i 7469T
+
+Azt. beijerinckii 8673‘
+
+Azt. beijerinckii 4032
+
+Alt. chroococcum ATCC 9043Y
+Azt. chroococcum 4031
+Azm. macrocytogenes 4308
+
+O 1 Azm. macrocytogenes 8674T
+
+X. fastidiosa 9a5c
+
+E. coli 15663T
+
+   
+ 
+ 
+ 
+
+X. fastidiosa 9356
+P, syringae 3023Y
+P. cichorii 5707‘
+P. putida 2758Y
+
+P. agarici 2656T
+
+P. tolaasii 12833T
+
+P. ﬂuorescens 3512'
+
+P. chlororaphis 13613'
+
+P. aureofaciens 13610'
+
+P. aurantiaca 6003T
+
+P. ﬂavescens 13539T
+
+P. mendocina 13540T
+
+P. stutzeri 12561r
+
+P. resinovorans 13541'
+
+P. aeruginosa 8647'
+
+Azm. macrocytogenes 8674'
+Azm. macrocytogenes 4308
+Alt. beijen‘nckii 8673T
+
+Azt. beijerinckii 4032
+
+Azt. chroococcum ATCC 9043Y
+Azt. chroococcum 4031
+
+A21. vine/andii ATCC 478'
+
+Azt. paspali 7469‘
+
+Azt. paspa/I' 7470
+
+   
+ 
+  
+ 
+  
+  
+   
+   
+ 
+ 
+  
+    
+ 
+ 
+
+01
+
+Tree of concatenated atpD, carA and recA sequences. DNA (left) Peptide (right)
+

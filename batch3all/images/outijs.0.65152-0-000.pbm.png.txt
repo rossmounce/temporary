@@ -1,0 +1,64 @@
+10
+
+9
+
+8
+
+7
+
+6 5 4 3 2 ‘I
+
+InHIunnlunulnnxluuln“lululunulnnnl...
+
+ 
+
+H. oholecystus Hkb—1T (U46129)
+H. pametensis ATCC 51478T (AF302105)
+H. equorum (AF363064)
+H. pullorum ATCC 51801T (AJ876518)
+H. canadensis NLEP-16143T (AF262037)
+H. acinonychis CCUG 29263T (M88148)
+H. pylori ATCC 43504T (AF363064)
+100 H. pylori ATCC 43504T (AF302106)
+‘Candidatus H. heilmannii‘ BC1 (AF506772)
+97 9 H. baculiformis MSOT (EF070342)
+55 6 H. felis ATCC 49179T (M57398)
+H. salomonis InkinenT (U89351)
+3 4 H. cynogastricus JKM4T (DQOO4689)
+H. bizzozeronii CCUG 35046 (AF302107)
+‘Candidatus H. suis‘ (AF127028)
+‘H. winghamensis‘ NLEP 98-0305 (AF363063)
+H. rodent/um MIT 96-1312 (U96297)
+H. ganmani MIT 99-5102 (AY631951)
+H. mesocricetorum MU 97—5506 (AF072334)
+H. aurati MIT 97-5075cT (AF297868)
+H. trogontum MIT 95-5368T (AY686609)
+H. sp. ‘F/exispira taxon 7’ (U51874)
+H. canis NCTC 12739T (L13464)
+H. Cinaedi 94105 (AF497810)
+H. hepaticus FRED1 (L39122)
+H. murldarum ATCC 49282T (M80205)
+
+H. muste/ae HM 12198 (M55310)
+EDD H. suncus Kaz-Z (ABoos148)
+
+ 
+    
+   
+    
+      
+  
+    
+     
+  
+ 
+  
+
+823
+
+100
+
+ 
+
+Wolinella succinogenes ATCC 29543T (M88159)
+

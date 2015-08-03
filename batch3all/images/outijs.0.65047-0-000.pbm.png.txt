@@ -1,0 +1,61 @@
+68
+57
+
+Methy/obacterium extorquens JCM 2802T (D32224)
+Methylobacterium rhodesianum JCM 2810 (D32228)
+Methy/obacterium aminovorans CCM 4612T (AJ851086)
+Methylobacterium suomiense F20T (AY009404)
+65Methylobacterium populi BJ001 T (AY251818)
+
+Methylobacterium thiocyanatum ALL/SCN-PT (U58018)
+Methy/obacterium zatmanii NCIMB 12243T (L20804)
+Methylobacterium ch/ommethanicum CM4T (AF198624)
+Methylobacterium Iusitanum RXMT (AY009403)
+Methylobacterium podan'um FM4T (AF514774)
+
+Methylobacterium dichloromethanicum DM4T (AF227128)
+Methylobacterium rhodinum JCM 2811T(D32229)
+Methylobacterium iners 53173-33T (EF174497)
+
+99 Methylobacterium adhaesivum AR27T (AM040156)
+Methylobacterium organophilum JCM 2833T (D32226)
+Methy/obacteriumjeotgali $2R03-9T (DQ471331)
+Methy/obacterium hispanicum GP34T (AJ635304)
+Methylobacterium aerolatum 54138-11T (EF174498)
+Methy/obacterium mesophi/icum JCM 2829T (032225)
+Methy/obacterium fujisawaense DSM 5686T (AJ250801)
+Methylobacterium oryzae CBMBZOT (AY683045)
+Methylobacterium radioto/erans JCM 2831T (D32227)
+Methylobacterium aquaticum GR16T (AJ635303)
+
+Methylobacterium variabile GR3T (AJ851087)
+
+Methylobacterium isbiliense AR24T (AJ888239)
+
+Methylobacterium nodu/ans ORS 2060T (AF220763)
+Methylopila capsu/ata |M1T (AFOO4844)
+
+  
+    
+  
+  
+  
+   
+   
+    
+
+0.01
+
+  
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+

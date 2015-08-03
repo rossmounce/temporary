@@ -1,0 +1,61 @@
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+   
+ 
+  
+ 
+  
+   
+   
+  
+
+Actinomadura madurae DSM 43067T (X97889)
+N. composta K89T (AF360734)
+N. chromatogenes YIM 90109T (AY619715)
+98 N. halophila DSM 44494T (AJ421018)
+N. baichengens/s YIM 90130T (AY619716)
+N. gi/va YIM 90087T (AY619712)
+N. rosea YIM 90094T (AY619713)
+N. rhodophaea YIM 90096T (AY619714)
+N. treha/osi VKM Ac—942T (AF105972)
+N. kunsanensis HA-9T (AF195412)
+N. xinjiangensis YIM 90004T (AF251709)
+N. saline YIM 90010T (AY373031)
+N. halototerans DSM 44410T (AJ290448)
+N. dassonvillei subsp. dassonvillei DSM 431 1‘1T (X97886)
+N. dassonvillei subsp. albirubida DSM 40465T (X97882)
+N. synnemataformans IMMIB D-1215T (Y13593)
+N. Iucentensis DSM 44048T (X97888)
+N. alba DSM 43377T (X97883)
+N. prasina DSM 43845T (X97884)
+N. metallicus KBSGT (AJ420769)
+N. valliformis HBUM 20028‘r (AY336503)
+100 N. exha/ans E8101T (AY036000)
+N. alkaliphila DSM 44657T (AY230848)
+N. Iisteri DSM 40297T (X97887)
+N. aegyptica DSM 44442T (AJ539401)
+100 N. trap/ca VKM Ac—1457T (AF105971)
+N. umidischolae 66/93T (AY036001)
+
+100
+
+67
+
+  
+
+77
+
+0.01
+
+   
+

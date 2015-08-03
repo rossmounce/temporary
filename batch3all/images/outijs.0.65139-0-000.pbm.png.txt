@@ -1,0 +1,138 @@
+0.1
+
+100
+
+80 — Methylomicrobium album NCIMB 11123T (X72777)
+
+77 — Methylobacter whittenburyi NCIMB 11128T(X72773)
+98 — Methylobacter marinus A45T (AF304197)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 7 Methylomicrobium pelagicum NCIMB 2265T (X72775)
+
+ 
+
+100
+
+ 
+
+ 
+
+100
+
+ 
+
+ 
+
+63
+
+ 
+
+100
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+— ‘Methy/obacter a/caliphilus’ 5z (AF096091)
+Methylomonas scandinavica SR5T (AJ131369)
+
+— Methylomonas methanica S1 (AF150806)
+
+Methylococcus capsulatus Bath (L20842)
+Methyloca/dum tepidum LK6T (U89297)
+
+ 
+
+ 
+
+74
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+— Methy/oca/dum szegediense 0R2T (U89300)
+
+Methylophaga alcalica M39T (AF384373)
+‘Methy/ophaga murata‘ Kr3 (AY694421)
+
+84 — Methylophaga aminisulﬁdivorans MPT (DQ463161)
+
+ 
+
+97
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+ 
+
+ 
+
+95 — Methylophaga thalassica ATCC 33146T (X87339)
+
+96 — ‘Methylophaga natronica‘ Bur2 (AY128533)
+7 Methy/ophaga sulfidovorans RB—1T (X95461)
+100 — Methylophaga marina ATCC 35842T (X87338)
+98 Methy/ophaga marina KM5 (DQ400508)
+{ Methy/ophaga marina KM3 (DQ400507)
+Oceanospirillum multiglobuliferum IFO 13614T (AB006764)
+Oceanospirillum maris ATCC 27509T (ABOOS771)
+
+ 
+
+ 
+
+ 
+
+ 
+
+7O
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Escherichia coli 0 1 57: H7 (AY513502)
+

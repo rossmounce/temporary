@@ -1,0 +1,50 @@
+0 1O Strain MOB77
+' 100 Strain MPL7T (AM162407)
+100 Strain SB2
+_[ Planctomyces sp. Schlesner 638 (X81951)
+Planctomyces sp. Schlesner 642 (X81950)
+Planctomyces limnophilus DSM 3776T (X62911)
+— Planctomyces maris DSM 8797T (AJ231184)
+Planctomyces sp. Schlesner 130 (X81952)
+Planctomyces brasi/[ensis DSM 5305T (AJ231190)
+Planctomyces sp. Schlesner 668 (X81956)
+Blastopirellula marina IFAM 1313T (X62912)
+Pirellula staleyi DSM 6068T (X81946)
+Gemmata obscur/globus UQM 2246T (X54522)
+Gemmata-Iike strain JW9-3f1 (AF239697)
+Gemmata—Iike isolate JW10-3f1 (AF239695)
+lsosphaera pal/ida DSM 9630T (AJ231195)
+lsosphaera sp. Schlesner 666 (X81958)
+Isosphaera—Iike strain C2—3 (AF239692)
+‘Candidatus Scalindua brodae’ (AY254883)
+‘Candidatus Scalindua sorokinii’ (AY257181)
+‘Candidatus Scalindua wagneri’ (AY254882)
+‘Candidatus Brocadia anammoxidans’ (AF375994)
+‘Candidatus Kuenenia stuttgartiensis’ (AF375995)
+
+ 
+
+ 
+
+   
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+
+100
+
+ 
+
+ 
+
+100
+

@@ -1,0 +1,45 @@
+26 24 22 20181614 12108 6 4 2 0
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+5 H. pylori Tx30a (AJ558222)
+H. pylori 7546 (AJ558221)
+H. acinonychis ATCC 51104 (AJ558220)
+H. suis sp. nov. HS1T (EF204597)
+H. baculiformis M50T (EF070344)
+H. cynogastricus JKM4T (EF070341)
+0 H. salomonis CCUG 37845T (AJ558226)
+7“ H. salomonis Ko. K. I“ (AJ558225)
+100 o H. sa/omonis H8100 (AJ558224)
+H. salomonis CCUG 37848 (AJ558223)
+2H. felis Lopki 13 (AJ558230)
+H. felis D83 (AJ558229)
+H. felis ATCC 49179T (AJ558228)
+05/6 fe/is JKM5 (EF204598)
+H. felis Kukka (AJ558227)
+H. bizzozeronii CCUG 35545T (AJ558235)
+H. bizzozeronii R-53 (AJ558233)
+13050 H. bizzozeron/i 1O (AJ558234)
+H. bizzozeronii Yrjélé (AJ558232)
+H. bizzozeronii Emo (AJ558231)
+
+     
+   
+ 
+  
+   
+  
+   
+ 
+  
+ 
+ 
+ 
+  
+
+1000
+
+ 
+
+H. muste/ae CCUG 25715T (AJ558219)
+

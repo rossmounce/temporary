@@ -1,0 +1,41 @@
+100 Pasteuria penetrans (AF375881)
+
+Pasteur/a nishizawae (AF 1 34868)
+
+       
+  
+ 
+    
+  
+   
+  
+
+99 Alicyc/obaci/Ius contaminans 3-A191T (AB264026)
+57 Alicyclobaci/lus pomorum 3AT (AB089840)
+100 Alicyclobacillus tolerans K1 T (AF137502)
+100 EMcyc/obaciI/us macrosporangiidus 5-A239-20-AT (A3264025)
+
+Alicyclobacillus herbarius CP»1 T (ABO42055)
+87 Alicyclobacillus hesperidum FR—1 1T (AJ133633)
+100 Alicyclobacillus vulcanalis CngZT (AY425985)
+r Alicyclobacil/us sendaiensis NTAP—1 T (ABO84128)
+82 Alicyc/obaci/Ius acidocaldarius DSM 446T (X60742)
+
+100 Strain Eur1 9.5T (DQ444975)
+I:Bacillales bacterium Gsoil 1105 (ABZ45375)
+
+I:Marinibacillus mar/nus DSM 1297T (AJ237708)
+Lysinibaci/lus boronitolerans T—1 OaT (AB1 99591 )
+Oceanobaci/Ius iheyensis HTE831T (AB010863)
+57 Amphibaci/Ius xy/anus DSM 6626T (AJ496807)
+92 Ornithinibaci/Ius bavariensis WSBC 24001T (Y13066)
+VirgibaciI/us pantothenticus IAM 11061T (D16275)
+Bacillus subtilis DSM 10T (AJ276351)
+Exiguobacterium aurantiacum DSM 6208T (DQ019166)
+Aneurinibaci/lus aneurinilyticus DSM 5562T (AB112724)
+100 |:Oxalophagus oxalicus DSM 5503T (Y14581)
+Ammoniphilus oxalaticus RAOx-1T (Y14578)
+
+Paenibacillus polymyxa NCDO 1774T (X60632)
+0 02 Thermicanus aegyptius ET-5bT (AJ242495)
+

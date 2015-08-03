@@ -1,0 +1,282 @@
+59
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+
+» Nephridial Clone from E. foetida (AJ543439)*
+
+Nephrldial clone from E. foetida (AJ543440)*
+
+on 1WLNephricljial clone A. tuberculata (AJ543438):
+
+Nephndlal clone A. tuberculata (AJ543437)
+
+99 Nephridial Clone L. terrestris (AJ543436)*
+
+100 i Nephridial clone L. terrestris (AJ543435)*
+
+7 Nephridial clone from O. Iacteum (AJ543434)*
+
+100 Acidovorax deﬂuvii DSM 12644T(Y18616)
+
+93 Acidovorax Sp. G7A1 (AJ012070)
+
+7 Acidovorax facilis ATCC 11228T (AF078765)
+
+1007 Acidovorax delaﬁeldii ATCC 17505T (AF078764)
+
+7 Acidovorax Sp. 7078 (AF078767)
+
+7Acidovorax temperans ATCC 49665T (AF078766)
+
+Acidovorax avenae subsp. citrulli ATCC 19860 (AF137506)**
+Acidovorax avenae subsp. citruI/iAAC00-1.1 (CP000512)**
+Acidovorax avenae subsp. cattleyae NCPPB 961 (AF078762)**
+
+100 Acidovorax avenae subsp. cattleyae ICMP 2826 (AF137504)**
+
+52 Acidovorax avenae subsp. avenae DSM 7227T (AF137505)**
+
+7 Acidovorax sp. smarlab 133815 (AY093698)
+
+ 
+
+100
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+52 Acidovorax 5p. KSP2 (ABO76843)
+
+ 
+
+65 7Acidovorax anthun'i DSM 16745T (AJ007013) **
+Acidovorax konjaci DSM 7481T (AF137507)**
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 Acidovorax va/erianeI/ae DSM 16619T (AJ431731)”
+100 ‘Acidovorax' 5p. JS42 (CP000539)
+lDiaphorczbacter nitroreducens KSP4 (ABO76856)
+Variovorax paradoxus IAM 12373T (D30793)
+7 Rhodoferax antarcticus Fryx1 (AY609198)
+
+ 
+
+ 
+
+60 81
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 7 Rhodoferax fermentas FR27(D16211)
+7 Rhodaferax ferrireducens T118T (AF435948)
+
+Polaromonas naphthalivorans CJ2T (AY166684)
+
+ 
+
+ 
+
+ 
+
+7 Delftia acidovorans MC1 (AF149849)
+
+M
+
+(b)
+100
+
+100
+
+. . *
+98 100E Nephrldlal Isolate LT02-1
+Nephridial Isolate LT04-1 *
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nephridial Isolate AT4 *
+
+977 Acidovorax delaﬁeldii ATCC 17505 T
+
+ 
+
+97 7 Acidovorax temperans ATCC 49665 T
+
+ 
+
+Acidovorax defluvii DSM 12644T
+Acidovorax facilis ATCC 11228 T
+
+100 * Acidovorax avenae subsp. avenae DSM 7227TM
+
+ 
+
+ 
+
+100 7 Acidovorax avenae subsp. citrulli AAC00-1 **
+
+ 
+
+ 
+
+7 Acidovorax konjaci DSM 7481T **
+
+Acidovorax va/erianellae DSM 16619T **
+
+‘Acidovorax’ sp. JS42 (Diaphorobacter Sp.)
+
+ 
+
+ 
+
+, Bordetella bronchiseptica RBSO
+0. 01
+
+100
+99
+
+ 
+
+ 
+
+100 100 i Nephridial Isolate LT02-1 (EU165076) *
+
+ 
+
+ 
+
+ 
+
+* Nephridial Isolate LT04-1 (EU165077) *
+
+ 
+
+Nephridial Isolate AT4 *
+66
+
+ 
+
+ 
+
+Acidovorax deﬂuvii DSM 12644T (EU165071)
+
+Acidovorax faci/is ATCC 11228 T(EU350960)
+100 59 7
+
+54
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Acidovorax delaﬁeldii ATCC 17505T(EU165072)
+
+ 
+
+82 7 Acidovorax temperans ATCC 49665T(EU165074)
+
+Acidovorax valerianellae DSM 1661 9T (EU 1 65075) **
+
+ 
+
+977 Acidovorax avenae subsp. avenae DSM 7227T (EU165070) **
+
+75
+
+ 
+
+ 
+
+Acidovorax avenae subsp. citrulliAACOO-I (CP000512)**
+100
+
+ 
+
+ 
+
+ 
+
+Acidovorax konjaci DSM 7481T(EU165073)**
+
+ 
+
+ 
+
+Acidovorax anthurii DSM 16745T(Eu165069)**
+
+ 
+
+‘Acidovorax’ sp. JS42 ( Diaphorobacter sp. CP000539)
+
+ 
+
+7 Bordetella bronchiseptica RB50 (BX640437)
+0.01
+

@@ -1,0 +1,46 @@
+40 35 30 25 20 15 10
+
+lllllllllllll‘llllllllllllllllllllllllsllll‘
+
+H. muste/ae pJVS1OO (L33462)
+H. bilis ATCC 49314 (AY578105)
+
+100 H. bilis ATCC 49320 (AY578106)
+100
+H. bilis CCUG 23435 (AY578112)
+
+H. sp. ‘Flexispira‘ strain FL56 (AY578102)
+H. cynogastricus JKM4T (EF070340)
+
+ 
+    
+    
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+
+100
+
+H. baculiformis M50T(EF070343)
+
+H. sa/omonis InkinenT (AF508005)
+
+H. felis ATCC 49179T (AF508004)
+
+H. pylori DA (AY368262)
+
+‘Ca. H. heilmannii’ HU2 (AF508012)
+
+‘Ca. H. heilmannii' CM2 (AF508007)
+
+‘06. H. heilmannii’ HU1 (AF508010)
+‘Ca. H. heilmannii’ P4 (AF508013)
+
+H. bizzozeronii StorkisT (AF508003)
+H. hepaticus ATCC 51449 (AF066862)
+

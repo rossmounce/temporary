@@ -1,0 +1,116 @@
+100 P. gingivalis ATCC 33277T (AF414809)
+* 89 k P. heparinolytica ATCC 35895T (L16487)
+
+— P. zoogleoformans ATCC 33285T (L16488)
+—P. tannerae ATCC 51259T (AJ005634)
+
+P. bivia ATCC 29303T (L16475)
+SIP. brevis GA33T (AJ011682)
+P. ruminicola ATCC 19189T (L16482)
+
+P. bryantii DSM 11371T (AJ006457)
+
+P. copn' CB7T (ABO64923)
+
+P. oulorum ATCC 43324T (L16472)
+
+P. oris ATCC 33573T (L16474)
+
+P. salivae JCM 12084T (AB108826)
+
+P. albensis M384T (AJ011683)
+
+P. corporis ATCC 33547T (L16465)
+
+P. disiens ATCC 29426T (L16483)
+
+P. pallens10371T (Y13105)
+
+P. intermedia ATCC 25611T (AF414821)
+P. nigrescens ATCC 33563T (AF414833)
+P. dentico/a ATCC 35308T (AY323524)
+
+P. multiformis PPF’A21T (AB182483)
+
+P. melaninogenica ATCC 25845T (AY323525)
+
+P. veroralis ATCC 33779T (AY836507)
+
+P. nanceiensis LBN 293T (AY957555)
+
+ 
+
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+   
+  
+ 
+ 
+ 
+  
+
+ 
+
+69 P. nanceiensis LBN 297 (EF405529)
+
+P. marsh/'1' E9.34T (AF481227)
+
+P. loescheii NCTC 11321T (AY836508)
+P. shahii JCM 12083T (AB108825)
+
+P. ora/is ATCC 332ng (AY323522)
+
+P. enoeca ATCC 51261T (AJ005635)
+P. buccalis ATCC 35310T (L16476)
+
+P. timonensis 4401737T (00513919)
+
+P. stercorea CB35T (ABZ44774)
+
+‘P. massiliensis’ CIP 107630 (AF487886)
+
+P. baroniae E933T (AY840553)
+
+P. buccae ATCC 33574T (L16477)
+
+P. bergensis DSM 17361T (AY350613)
+
+P. multisaccharivorax JCM 12954T (AB200414)
+P. dental/s DSM 3688T (X81876)
+
+ 
+
+0.02
+

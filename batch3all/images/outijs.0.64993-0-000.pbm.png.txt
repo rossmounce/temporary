@@ -1,0 +1,46 @@
+Bacillus luciferensis LMG 18422T (AJ419629)
+
+ 
+   
+  
+  
+  
+ 
+ 
+  
+   
+ 
+  
+  
+  
+
+1000 Strain L105 (DQ248043)
+
+Strain GPTSA1 00-1 (DQ854980)
+
+0.02
+I I CBD 119T (D0374637)
+
+959
+
+Strain KJ2C12 (AY514023)
+
+Bacillus mycoides ATCC 6462T (AF155956)
+Bacillus anthracis AMES (AE017024)
+
+923
+940 Bacillus thuringiensis ATCC 10792T (AF290545)
+
+993
+Bacillus cereus ATCC 14579T (AEO16998)
+
+Bacillus cohnii DSM 6307T (X76437)
+Bacillus horikoshii DSM 8719T (ABO43865)
+Bacillus halmapalus DSM 8723T(X76447)
+Bacillus lentus NCIB 8773T (AB021189)
+Bacillus siralis 171544T (AF071856)
+Bacillus ﬁrmus NCIB 9366T (X60616)
+Bacillus circulans ATCC 4513T (AY724690)
+
+Geobaclllus stearothermophi/us DSM 22T (AJ294817)
+

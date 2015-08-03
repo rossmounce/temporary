@@ -1,0 +1,64 @@
+S. mutans NCTC 10449T (AJ243965)
+
+80 s, sobrinus ATCC 33478T (AY188349)
+100
+
+ 
+
+S. dentirousetti NUM 1303T (ABZ59061)
+100
+S. dOWHei NCTC 11391T (AJ420200)
+
+S. anginosus ATCC 33397T (AF104678)
+
+93
+
+S. intermedius ATCC 27335T (AF104671)
+
+S. gordoniiATCC 10558T (AY485606)
+
+  
+ 
+  
+
+S. sanguinis ATCC 10556T (ABOOZ524)
+
+S. pneumoniae ATCC 33400T (AF003930)
+
+   
+
+100
+S. mitis ATCC 49456NT (AF003929)
+
+S. salivanus subsp. salivarlus ATCC 7073T (AY188352)
+
+  
+  
+  
+  
+ 
+ 
+
+S. suis ATCC 43765T (A3002525)
+
+S. hyointesﬂnalis ATCC 49169T (AB002518)
+
+ 
+
+ 
+
+S. equi subsp. zooepidemicus ATCC 43079T (ABOOZ516)
+
+ 
+
+S. uberis ATCC 19436T (ABOOZSZG)
+
+S. pyogenes JCM 5674T (A8002521)
+S. agalact/ae JCM 5671T (AB002479)
+
+S. alactolyticus ATCC 43077T (AF201899)
+
+S. bovis ATCC 33317T (AB002482)
+
+0,01
+

@@ -1,0 +1,47 @@
+0.05
+
+H. pylori ATCC 43504T (AY787944)
+B. ureolyticus ATCC 43606 (AY922366)
+canadensis L277 (EF621913)
+canadensis LZSGT (EF621906)
+canadensis L280 (EF621911)
+canadensis L268 (EF621907)
+canadensis L281 (EF621914)
+canadensis L267 (EF621908)
+canadensis L283 (EF621909)
+canadensis L279 (EF621912)
+canadensis L285 (EF621915)
+canadensis L284 (EF621910)
+A. nilroﬁgilis ATCC 33309T (D0059460)
+A. cryaerophi/us ATCC 49615 (D0059481)
+A. skirrowii ATCC 51132T(DQO59471)
+A. butzleri CCUG 10373 (AY628390)
+100 A. butzleri ATCC 49616T (DQ059474)
+C. Iari ATCC 35221T (AYO44100)
+C. upsa/iensis CCUG 14913T (AY628409)
+100 C. helvet/cus CCUG 30682T (AY628394)
+C. jejunisubsp. doy/ei NCTC 11847 (D0059458)
+100 C. jejuni NCTC 11168 (AY044099)
+97 C. jejuni subsp. jejuni ATCC 43429 (AF461064)
+10° C, can CCUG 11283T (AY628391)
+100 C. 001/ CCUG 33450 (AY628396)
+C. mucosa/is CCUG 6822T (AY628406)
+70 C. rectus ATCC 33238T (DQ059427)
+C. curvus ATCC 35224T (DQ059457)
+C. concisus ATCC 33237T (DQ059465)
+C. graci/is ATCC 33236T (D0059467)
+C. Ianienae CCUG 44467T (AY628402)
+C, hyointestina/is subsp. hyointestina/is CCUG 14169T (AY628397)
+83 100 C. hyointestinalis subsp. Iawsonii CCUG 34538T (AY628398)
+97 C. fetus subsp. venereal/s ATCC 19438T (DQ059443)
+100 C. fetus subsp. fetus ATCC 27374T (D0059455)
+C. sputorum bv. Bulbulus CCUG 11289 (AY628407)
+100 C. showae NEP 16950 (D0059461)
+76 C. sputorum bv. Sputorum CCUG 9728“T (AY628408)
+
+100
+
+99.09.009.095"
+
+100 100
+

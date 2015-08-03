@@ -1,0 +1,55 @@
+68
+
+Bacillus ha/odurans LB 35 (EF113325)
+
+Pseudoalteromonas byunsanensis JCM 12483T (DQO1 1289)
+
+57 Pseudoalteromonas Iuteoviolacea NCIMB 1893T (X82144)
+
+90 Pseudoalteromonas phenolica O-BC30T (AF332880)
+
+Pseudoa/teromonas rubra ATCC 29570T (X82147)
+78
+
+100 Pseudoa/teromonas flavipu/Chra NCIMB 2033T (AF297958)
+
+Pseudoalteromonas peptidolytica M BICO1416T (AF007286)
+
+100 Pseudoa/teromonas aurantia ATCC 33046T (X82135)
+
+Pseudoalteromonas citrea NCIMB 1889T (X82137)
+
+Pseudoalteromonas prydzensis ACAM 620T (U85855)
+93
+
+100 Pseudoalteromonas man'niglutinosa KMM 3635T (AJ507251)
+
+‘Pseudoalteromonas porphyrae’ Q-1-6T (AF475096)
+
+56 99 Pseudoa/teromonas issachenkonii KMM 3549T (AF316144)
+
+Pseudoalteromonas tetraodonis IAM 14160T (X82139)
+
+Pseudoalteromonas espejiana NCI MB 2127T (X82143)
+
+87
+Pseudoalteromonas carrageenovora IAM 12662T (X82136)
+
+52
+strain A 37-1-2T (DQ787199)
+Pseudoalteromonas distincta KMM 638T (AF082564)
+
+83
+Pseudoalteromonas e/yakovii KMM 162T (AF082562)
+
+Pseudoalteromonas nigrifaciens NCIMB 8614T (X82146)
+Pseudoalteromonas halop/anktis ATCC 14393T (X67024)
+Pseudoalteromonas undina NCIMB 2128T (X82140)
+Pseudoalteromonas aliena KMM 3562T (AY387858)
+95 Pseudoalteromonas translucida KMM 520T (AY040230)
+Pseudoa/teromonas antarctica CECT 4664T (X98336)
+
+Pseudoa/teromonas atlantica IAM 12927T (X82134)
+
+O 02 Pseudoalteromonas agan'vorans KMM 255T (AJ417594)
+

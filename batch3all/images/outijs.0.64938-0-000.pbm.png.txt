@@ -1,0 +1,121 @@
+0.01
+
+47
+
+  
+    
+ 
+ 
+
+48
+
+ 
+
+100
+
+66 — Enterobacter cloacae ATCC 13047T (AJ251469)
+
+ 
+
+ 
+
+59 — Vibrio cholerae ATCC 14035T (EFO32498)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+35
+
+ 
+
+ 
+
+ 
+
+ 
+
+100
+
+ 
+  
+ 
+
+ 
+
+ 
+
+Aeromonas hydrophi/a ATCC 7966T (X60404)
+PasteureI/a mu/tocida NCTC 10322T (M35018)
+
+I —Alteromonas mac/eodii IAM 12920T (X82145)
+Legione/Ia pneumophila ATCC 33152T (M59157)
+
+_: Oceanospiri/Ium linum ATCC 11336T (M22365)
+59 Pseudomonas aeruginosa ATCC 10145T (AF094713)
+
+Cardiobacterium ham/His ATCC 16826T (M35014)
+Thiothrix nivea .JPZT (L40993)
+Chromatium okenii DSM 189T (Y12376)
+Methy/ococcus capsu/atus Texas (AJ563935)
+Xanthomonas campestris LMG 568T (X95917)
+Solimonas soli DCY12T (EF067861)
+100 Hydrocarboniphaga effusa AP103T (AY363245)
+Hydrocarboniphaga effusa AP102 (AY363244)
+
+ 
+
+ 
+
+  
+
+61
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+99 — Nevskia ramosa Soe1 (AJ001010)
+100 — Nevskia ramosa OL1 (AJ001011)
+
+Acidithiobaci/lus thiooxidans DSM 612T (M79401)
+Hydrogenophi/us thermoluteolus TH-1T (AB009828)
+Neisseria gonorrhoeae NCTC 8375T (X07714)
+Burkho/deria cepacia ATCC 25416T (AF097530)
+Rhodocyclus purpureus 6770 (M34132)
+
+Methy/ophi/us methy/otrophus NCIMB 10515T (AB193724)
+
+ 
+
+ 
+
+75 Nitrosomonas europaea ATCC 25978T (AB070982)
+RhodospiriI/um rubrum ATCC 11 170T (D30778)
+{g Sphingomonas paucimobilis ATCC 29837T (U37337)
+70 Caulobacter vibrioides DSM 9893T (AJ227754)
+7§aﬂﬁum leguminosarum ATCC 10004T (U29386)
+93 Rhodobacter capsu/atus ATCC 1 1 166T (D16427)
+
+Bacillus subtilis DSM 10T (AJ276351)
+

@@ -1,0 +1,52 @@
+ 
+  
+    
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+     
+ 
+
+Escherichia coli strain CFTO73 (AE014075)
+Desulfobulbus rhabdoformis DSM 8777T (U12253)
+Desulfospira joergensen/i DSM 10085T (X99637)
+Desulfotignum toluenicum H3T clone 7 (EF207159)
+Desulfotignum toluenicum H3T clone 4 (EF207158)
+* Desulfotignum balticum DSM 7044T (AF418176)
+93 Desulfotignum toluenicum H3T clone 1 (EF207157)
+Desu/fotignum phosphitoxidans FiPS—3T (AF420288)
+Desu/fotignum phosphitoxidans FiPS—5 (AF420289)
+Desulfobacula phenol/ca DSM 3384T (AJ237606)
+Desu/fobacu/a toluo/i'ca DSM 7467T (X70953)
+Desu/fobacter postgatei DSM 2034T (AF418180)
+Desulfobacter curvatus DSM 3379T (AF418175)
+Desulfobaoter haloto/erans DSM 11383T (Y14745)
+Benzene-mineralizing consortium clone SB-Q (AF029042)
+* Desulfoglaeba (strain Lake (DQ303458)
+Desulfoglaeba alkanexedens ALDCT (DQ303457)
+Desulfobacterium indolicum DSM 3383T (AJ237607)
+Olavius algarvensis sulfate-reducing endosymbiont (AF328857)
+Sulfate—reducing bacterium de3 (AF141881)
+Desulfosarcina variabilis DSM 2060T (M34407)
+Deltaprotebacterium 82551 (AF177428)
+Deltaproteobacterium 82552 (AF468969)
+* Desu/fatibacil/um a/kenivorans PF2803T (AY493562)
+Strain PF2802 (AY493563)
+100 Desu/fatibaci/Ium aliphatic/vorans CV2803T (AY184360)
+Deltaproteobacterium 82550 (AF148141)
+Deltaproteobacterium Pnd3 (Y17501)
+0.02 Sulfate-reducing bacterium AK-01 (AF141328)
+
+ 
+

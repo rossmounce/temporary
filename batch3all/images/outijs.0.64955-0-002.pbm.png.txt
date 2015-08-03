@@ -1,0 +1,116 @@
+lb
+
+Hydrogenovibrio marinus MH-11OT (D43621) (cbbL-1)
+
+AcidithiobaciI/us ferrooxidans ATCC 23270T (AF129925) (cbbL-Z)
+
+Alkali/imnicola ha/udurans 34-AlcT (DQ217926)
+
+Thioalkalispira microaerophi/a ALEN 1T (AY450586)
+Hydrogenovibrio mar/nus MH-11OT (D43622) (cbbL-Z)
+
+88 Allochromatium vinosum ATCC 17899T (D90204) (cbbL-Z)
+
+Thioa/ka/lvlbrio paradoxus ARh 1T (AY9‘I4806)
+
+100 Thioa/kaI/vibr/o nitratireducens ALEN 2T (AY914801)
+
+Ectothiorhodospira shaposhnikovii DSM 243T (AY450587)
+
+Thioalka/ivibrio denitriﬁcans ALJDT (AY9‘I4807)
+
+Methylonatrum kenyense AMT 1T (EF152335)
+
+Thiaa/kalivibriojannaschii ALM 2T (AY914803)
+
+Thioalkalivibrio thiocyanoxidans ARh 2T (AY914804)
+
+Thioalka/ivibrio nitratis ALJ 12T (AY914805)
+
+84 Thioalka/ivibrio versutus AL 2T (AY914800)
+
+Methy/ococcus capsu/atus Bath (AF447860)
+
+Allochromatium vinosum ATCC 17899T (M26396) (CbbL-1)
+
+Acidithiobaci/lus ferrooxidans ATCC 23270T (AF307091) (cbbL-1)
+
+Thioa/ka/ivibrio thiocyanodenitriﬁcans ARhD1T (AY914802)
+
+Rhodobacter capsulatus IFO 16435T (L82000)
+
+   
+   
+  
+   
+  
+   
+   
+   
+  
+
+01
+
+)
+
+0 05 95 Methylobacterium rhodinum (U70527)
+
+100 Methy/obacterium dichloromethanicum DM4T (AJ878058)
+Aﬁpia felis RD’I (AY848827)
+
+Methy/orhabdus multivorans ATCC 51890T (AJ878070)
+Methy/oceI/a pa/ustris KT (AJ278731)
+Methylobaclen'um nodu/ans ORS 2060T (AF220764)
+Beijerinckia mobilis DSM 2326T (AJ563936)
+Methy/ocapsa acid/phi/a BZT (AJ278730)
+
+   
+   
+ 
+   
+  
+   
+  
+   
+  
+ 
+ 
+ 
+  
+ 
+  
+  
+
+Hyphom/crobium vulgare MC—750 (Y08070)
+Paracoccus kandratievae NCIMB 13773T (AJ878072)
+— ‘Methy/osu/fonomonas methylovora’ (U70525)
+
+99 [— Alb/beater melhy/ovorans DSM 13819T (AJ878069)
+
+Methy/opi/a capsu/ata ATCC 700716T (AJ878071)
+
+Methy/osinus trichosporium OB3bT (U70516)
+Methylosinus sporium 5 (U70514)
+Methy/ocystis parvus OBBPT (U70515)
+Methylocystis echinoides IMET 10491T (AJ459057)
+Methylovorus sp. SS1 (AF184915)
+
+ 
+
+Melhy/ophilus methylotrophus W3A1 (U41040)
+Methylohalomonas Iacus HMT 1T (EF152336)
+Methylococcus capsulatus Bath (U70511)
+‘Methy/oca/dum pushchinense’ 0-12 (D0002935)
+Methy/omicrobium album BGST (U70513)
+Methy/omonas methanica S1 (U70512)
+
+99
+
+Gamma
+
+Hyphomicrobium methy/ovorum GMZ (AB004097) Alpha
+
+Methylobaci/Ius glycogenes ATCC 29475T (AJ878073)
+
+} Beta
+

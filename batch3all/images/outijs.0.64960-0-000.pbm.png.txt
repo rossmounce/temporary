@@ -1,0 +1,41 @@
+64 Salipiger mucosus AST (AY527274)
+6869 Pelagibaca bermudensis KCTC 12554T (DQ178660)
+Roseivivax ha/odurans OCh 239T (D85829)
+100 Ruegeria at/antica IAM 14463T (D88526)
+93 Silicibacter Iacuscaeru/ensis ITl-1 157T (U77644)
+100 Roseovan'us tolerans DSM 11457T (Y11551)
+76 94 Roseovarius mucosus DFL-24T (AJ534215)
+51 Roseovarius nubinhibens ISMT (AF098495)
+68 Leisingera methylohalidivorans M82T (AY005463)
+
+0.01 . .
+76 Phaeobacter Inhtbens T5T (AY177712)
+
+ 
+
+. Marinovum algico/a FF3T (X78315)
+63 Oceanibu/bus indo/ifex HEL—45T (AJ550939)
+Sulﬁtobacter pontiacus DSM 10014T (Y13155)
+:2 Staleya guttiformis EL-38T (Y16427)
+Roseobacter litoralis ATCC 49566T (X78312)
+97 Antarctobacter heliothermus DSM 11445T (Y11552)
+93 Sag/Hula ste/Iata E-37T (U58356)
+Roseovarius crassostreae CV919-312T (AF114484)
+Thalassobius mediterraneus XSM19T (AJ878874)
+64 Nereida ignava 28M4T (AJ748748)
+59 Tha/assobacter stenotrophicus SSM22T (AJ631302)
+82 Oceanico/a granulosus HTCC2516T (AY424896)
+77 81 Roseisalinus antarcticus EL-88T (AJ605747)
+57 . 7° Ketogulonicigenium vulgare DSM 4025T (AF136849)
+‘ 76 Jannaschia he/golandensis Hel 10T (AJ438157)
+LoktaneI/a salsi/acus LMG 21507T (AJ440997)
+85 Octadecabacter arcticus 238T (U73725)
+6“ Maribius sallnus CL-SP27T (AY906863)
+Maritimibacter alkaliphilus HT062654T (D091 5443)
+Dinoroseobacter shibae DFL 12T (AJ534211)
+65 Paracoccus denitriﬁcans ATCC 17741T (X69159)
+Rhodobacter capsulatus ATCC 11 166T (D16428)
+
+Rhodovu/um sulfidaphilum DSM 1374T (D16423)
+Pan/ularcu/a bermudensis ATCC BAA-594T (AF544015)
+

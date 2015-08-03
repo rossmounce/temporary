@@ -1,0 +1,52 @@
+    
+   
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+
+Pedobacter hima/ayensis HHS 22T (AJ583425)
+Pedobacter cryoconitis DSM 14825T (AJ438170)
+Pedobacter piscium DSM 11725T (AJ438174)
+Pedobacter ginsengisoli Gsoil 104T (ABZ45371)
+
+6&1 Pedobacter heparinus DSM 2366T (AJ438172)
+584 Pedobacter panaciterrae Gsoil 042T (ABZ45368)
+Pedobacter africanus DSM 12126T (AJ438171)
+Pedobacter caeni LMG 22862T (AJ786798)
+Pedobacter suwonensis 15—52T (DQOQ7274)
+
+Pedobacter sandarakinus DS—27T (DQZ35228)
+Pedobacter roseus CL—GP80T (DQ112353)
+
+Pedobacter aquatilis AR107T (AM114396)
+Pedobacter Ientus DS-40T (EF446146)
+Pedobacter terricola DS-45T (EF446147)
+
+Sphingobacter/um thalpophi/um DSM 11723T (AJ438177)
+Sphingobacterium multivorum IAM 14316T (AB100738)
+Sphingobacterium faecium DSM 11690T (AJ438176)
+Sphingobacterium spiritivorum ATCC 33861T (M58778)
+Pedobacter sa/tans DSM 12145T (AJ438173)
+Cytophaga hutchinsonii ATCC 33406T (M58768)
+Flavobaoterium aquatile ATCC 11947T (M62797)
+
+100
+
+0  58.7
+
+99.6
+

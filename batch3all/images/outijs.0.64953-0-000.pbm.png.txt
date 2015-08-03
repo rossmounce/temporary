@@ -1,0 +1,108 @@
+0.02
+
+99
+
+99
+
+ 
+
+ 
+  
+   
+  
+    
+
+ 
+
+96
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+1
+
+97
+
+ 
+
+94
+
+98
+
+  
+
+99
+
+— Chromohalobacter nigrandesensis LST—4NT (AJ277205)
+— Chromoha/obacter sarecensis LV4T (AY373448)
+Chromohalobacter canadensis ATCC 43984T (AJ295143)
+Chromohalobacter beijerinckii ATCC 19372T (AB021386)
+Chromoha/obacter marismon‘ui ATCC 17056T (X87219)
+Chromohalobacter israelensis ATCC 43985T (AJ295144)
+
+ 
+
+99 Chromohalobacter saleXigens DSM 3043T (AJ295146)
+
+ 
+
+73
+
+H
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chromohalobacter salarius CG4.1 T (AJ427626)
+Ha/omonas desiderata FB2T (X92417)
+
+99 Halomonas mura/is LMG 20969T (AJ320530)
+as:
+
+Halomonas pantelleriensis AAPT (X93493)
+Haiomonas haiodurans DSM 5160T (L42619)
+Haiomonas variabi/is DSM 3051T (AJ306893)
+Halomonas meridiana DSM 5425T (AJ306891)
+Halomonas venusta DSM 4743T (AJ306894)
+Halomonas cupida DSM 4740T (L42615)
+
+95
+74 _{——i-Ia-Iomonas ventosae Al12T (AY268080)
+
+alomonas paciﬁca DSM 4742T (L42816)
+Halomonas halodenitriﬁcans ATCC 13511T (L04942)
+
+— Halomonas saline ATCC 49509T (AJ243447)
+— Halomonas halophila DSM 4770T (M93353)
+
+Halomonas halmophila ATCC 19717T (AJ306889)
+— Ha/omonas elongate ATCC 33173T (X67023)
+
+ 
+
+99
+
+— Ha/omonas eurihalina ATCC 49336T (X87218)
+
+Cobetia marina DSM 4741T (AJ306890)
+
+_,— Z ymobacter palmae T1 OQT (D 1 4555)
+Carnimonas nigrificans CTCBS1T (Y13299)
+
+ 
+
+Escherichia coli ATCC 11775T (X80725)
+

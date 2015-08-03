@@ -1,0 +1,38 @@
+97 [——- Vibrio cincinnatiensis ATCC 35912T (X74698)
+Vibrio metschnikovii NCTC 11170T (X74712)
+Vibrio diazotrophicus ATCC 33466T (X74701)
+C Vibrio ordalii ATCC 33509T (X74718)
+Vibrio vulniﬁcus ATCC 27562T (X76333)
+Vibrio scophthalmi CECT 4638T (U46579)
+Vibrio aestuarianus ATCC 35048T (X74689)
+Vibrio tapetis CECT 4600T (Y08430)
+
+Vibrio splendidus ATCC 33125T (X74724)
+
+Vibrio pectenicida CIP 1051 QOT (Y13830)
+Vibrio navarrensis CIP 103381T (X74715)
+
+Vibrio gazogenes ATCC 29988T (X74705)
+Vibrio aerogenes ATCC 700797T (AF124055)
+
+ 
+
+ 
+    
+   
+  
+  
+ 
+   
+  
+
+Strain MSSRF3T LMG 23790T (D0847123)
+
+—Strain MSSRF10 DSM 18600 (DQZ73663)
+— Vibrio ruber VR1T (AF462458)
+Vibrio mimicus ATCC 33653T (X74713)
+
+ 
+
+0.01
+

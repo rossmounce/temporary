@@ -1,0 +1,62 @@
+   
+  
+
+Rhizobium radiobacter IAM 13129 (D12784)
+Rhizobium Ieguminosarum IAM 12609T (D14513)
+— Bruce/Ia melitensis ATCC 23456T (L26166)
+Ochrobactrum anthropi IAM 14119T (D12794)
+Mycoplana dimorpha IAM 13154T (D12786)
+Ensifer fredii LMG 6217T (X67231)
+
+Ban‘onella baci/Iiformis NCTC 12138T (X60042)
+Phyl/obacterium myrsinacearum IAM 13584T (D12789)
+g3 — Aminobacter aminovorans DSM 7048T (AJ011759)
+— Mesorhizobium Ioti LMG 6125T (X67229)
+
+65 _i:Aquamicrobium deﬂuvii DSM 11603T (Y15403)
+
+64 Pseudaminobacter salicylatoxidans BN 12T (AF072542)
+Ahrensia kielensis IAM 12618T (088524)
+Fulvimarina pelagi HTCC2506T (AY178860)
+
+— Strain 57153-12T (D0883810)
+
+Aurantimonas altamirensis 821BT (DQ372921)
+95 — Aurantimonas coralicida WP1T (AY065627)
+100 {Aurantimonas sp. strain HTCC2156 (AY178863)
+
+94 Manganese-oxidizing bacterium SI85-9A1 (U53824)
+Escherichia coli ATCC 11775T (X80725)
+
+ 
+
+90
+
+ 
+
+74
+
+ 
+
+   
+    
+   
+
+0.02
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+76
+
+ 
+
+ 
+

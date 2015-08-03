@@ -1,0 +1,65 @@
+77
+
+100
+
+87
+
+100
+
+77
+
+91
+
+81
+
+100
+
+1 HLD1 (DO469580)
+
+79 
+1 HLD 2T (EF117909)
+
+,7 HLD 12 (EF117912)
+HLD 3 (EF117910)
+HLD 15 (EF455919)
+
+HLD 4 (EF1 17911) Thiohalomonas
+
+denitrificans
+
+HLD 14 (EF117918)
+HLD 16 (DQ469581)
+Thiohalomonas nitratireducens HRhD 35pT (D0836238)
+‘Thiobaci/lus prosperus‘ DSM 5130 (AY034139)
+Mar/nobacter hydrocarbonoclasticus ATCC 49840T (X67022)
+‘Methyloha/omonas lacus’ HMT 1 (D0834966)
+‘Thioha/ophi/us thiocyanoxidans' HRhD 2 (DO469584)
+Thioalka/ispira microaerophi/a ALEN 1T (AF4811 18)
+Ectothiorhodospira mobi/is DSM 237T (X93481)
+‘Ectothiorhodosinus mongol/cum’ M9 (AY298904)
+Thia/ka/ivibrio versutus AL 2T (AF1 26546)
+Thiorhodospira sibirica A1 2T (AJOO6530)
+
+‘Thioha/ospira sibin'ca’ HL 3 (DO469576)
+
+Arhodomonas aquaeo/ei ATCC 49307T (M26631)
+Nitrococcus mobil/s ATCC 25380T (L35510)
+Ha/orhodospira ha/ophi/a DSM 244T (M26630)
+
+Alka/ispiri/lum mobile SL-1T (AF1 14783)
+Alkali/imnico/a halodurans 34A|cT (AJ404972)
+‘Marichromatium imhoff/i’ JA12OT (AM1 79448)
+Halomonas e/ongata ATCC 331 7ST (M93355)
+
+100 Thiomicrospira ha/ophi/a HL5T (D0390450)
+
+100 Thioalka/imicrobium aerophi/um AL 3T (AF1 26548)
+Thiom/crospira pe/ophila DSM 1534T (L40809)
+Aquimonas voraii GPTSA 20T (AY544768)
+Ha/othiobaci/lus ha/oph/lus DSM 6132T (U58020)
+‘Thiohalorhabdus denitrificans’ HLD 8 (DO469583)
+Acidithiobaci/lus ferrooxidans ATCC 23270T (AF465604)
+
+0.05
+l—l
+

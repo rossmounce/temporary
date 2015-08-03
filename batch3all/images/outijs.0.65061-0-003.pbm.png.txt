@@ -1,0 +1,68 @@
+0.05
+
+84
+
+100
+
+72
+
+99
+
+88
+
+71
+
+88
+
+100
+
+100
+
+100
+
+100
+
+W succinogenes DSM 1740T (BX571658)
+C. hominis NCTC 13146T (DQ174239)
+C. Sputorum bv. Sputorum LMG 7795NT (DQ174149)
+C. upsa/lensis CCUG 14913T (DQ174214)
+C. he/veticus NCTC 12470T (DQ174218)
+C. lari NCTC 11352T (DQ174202)
+C. insu/aenigrae NCTC 12927T (DQ174240)
+C. jejuni subsp. jejuni NCTC 11351T (AF372097)
+C. 00/] LMG 6440T (AF372098)
+92 C. jejunr'subsp. doy/er'LMG 8843T (DQ174201)
+
+C. canadensis L268 (EF621886)
+
+C. canadensis L283 (EF621888)
+canadensis L284 (EF621889)
+canadensis L280 (EF621890)
+canadensis L285 (EF621893)
+canadensis L267 (EF621887)
+
+C. canadensis L281 (EF621892)
+
+C. canadensis L266T (EF621885)
+
+C. canadensis L279 (EF621891)
+
+C. lenienae NCTC 13004T (DQ174238)
+C. hyointestinalis subsp. lawsonii CCUG 34538T (DQ195238)
+C. hyointestina/fs subsp. hyointestina/r's LMG 7817T (DQ174234)
+
+C. fetus subsp. venereal/s NCTC 10354T (DQ174188)
+C, fetus subsp. fetus ATCC 27374T (DQ174184)
+
+9.0.0.0
+
+C. concisus ATCC 33237T (DQ174223)
+
+C. mucosa/is ATCC 43264T (DQ174230)
+C. graci/I's ATCC 3323GT (DQ174225)
+
+C. Gun/us ATCC 3.5224T (DQ174222)
+C. showae CCUG 30254T (DQ174212)
+
+C. rectus CCUG 20446BT (DQ174226)
+
