@@ -1,0 +1,4 @@
+Batch 2 (a batch of 250 images).
+36 'fail' logs here.
+
+I haven't visually examined them yet.
