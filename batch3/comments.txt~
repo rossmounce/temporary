@@ -1,0 +1,41 @@
+Batch 3 (a batch of 250 images).
+10 'fail' logs so far. Still processing through the 250.
+
+The 10 I shall refer to via these identifiers:
+64921
+64936
+64942
+64947
+64953
+64958
+64964
+64981
+64993
+65000
+
+Notes:
+
+65000 is an extremely atypical diagram and it is unsurprising the program cannot process it. Ignore.
+
+64993 I can only guess what is wrong with this image. Perhaps the double thickness edges?
+
+64981 Bars on nodes both filled and non-filled circles. Problem?
+
+64964 Seems like one pixel is chomped out of each node. Problem?
+
+64958 Arrows pointing to nodes are perhaps the problem here?
+
+64953 Unknown what the problem is here
+
+64947 Very 'flat' relationships between many taxa
+
+64942 The '85' node annotation might be muddling things here?
+
+64936
+
+64921
+
+
+
+
+
